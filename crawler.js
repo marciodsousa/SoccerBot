@@ -2,23 +2,14 @@ var request = require('request');
 var cheerio = require('cheerio');
 var URL = require('url-parse');
 var fs = require('fs');
+var path = require('path');
 
-request("https://www.reddit.com", function(error, response, body) {
-  if(error) {
-    console.log("Error: " + error);
-  }
-  console.log("Status code: " + response.statusCode);
-
-  var $ = cheerio.load(body);
-
-  $('div#siteTable > div.link').each(function( index ) {
-    var title = $(this).find('p.title > a.title').text().trim();
-    var score = $(this).find('div.score.unvoted').text().trim();
-    var user = $(this).find('a.author').text().trim();
-    console.log("Title: " + title);
-    console.log("Score: " + score);
-    console.log("User: " + user);
-    fs.appendFileSync('reddit.txt', title + '\n' + score + '\n' + user + '\n');
+  var $ = cheerio.load(fs.readFileSync('meusres.html'));
+  $('#fs-results table tr').each(function( index ) {
+    debugger;
+    var home = $(this).find('td > span.padr').text().trim();
+    var away = $(this).find('td > span.padl').text().trim();
+    var score = $(this).find('td.cell_sa').text().trim();
+    if(home && away && score)
+    fs.appendFileSync('meus.txt', "Home: " +home + ' |'+score+'| ' + away +'\n');
   });
-
-});
