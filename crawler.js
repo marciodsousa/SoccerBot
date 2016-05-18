@@ -6,10 +6,12 @@ var path = require('path');
 
   var $ = cheerio.load(fs.readFileSync('meusres.html'));
   $('#fs-results table tr').each(function( index ) {
-    debugger;
+    var round = $(this).find('td[colspan=6]').text().trim();
     var home = $(this).find('td > span.padr').text().trim();
     var away = $(this).find('td > span.padl').text().trim();
     var score = $(this).find('td.cell_sa').text().trim();
     if(home && away && score)
     fs.appendFileSync('meus.txt', "Home: " +home + ' |'+score+'| ' + away +'\n');
+    if(round)
+      fs.appendFileSync('meus.txt', "Round: " +round+'\n');
   });

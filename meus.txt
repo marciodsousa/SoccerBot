@@ -1,3 +1,4 @@
+Round: Ronda 34
 Home: Benfica |4 : 1| Nacional
 Home: Braga |0 : 4| Sporting
 Home: Moreirense |2 : 1| Maritimo
@@ -7,6 +8,7 @@ Home: U. Madeira |1 : 2| Rio Ave
 Home: Vitória Setúbal |0 : 0| Paços Ferreira
 Home: Arouca |2 : 2| Vitória Guimarães
 Home: FC Porto |4 : 0| Boavista
+Round: Ronda 33
 Home: Estoril |1 : 1| Arouca
 Home: Maritimo |0 : 2| Benfica
 Home: Vitória Guimarães |4 : 1| Moreirense
@@ -16,6 +18,7 @@ Home: Sporting |5 : 0| Vitória Setúbal
 Home: Academica |0 : 0| Braga
 Home: Rio Ave |1 : 3| FC Porto
 Home: Paços Ferreira |1 : 4| Tondela
+Round: Ronda 32
 Home: U. Madeira |3 : 1| Academica
 Home: Arouca |3 : 0| Nacional
 Home: Estoril |2 : 1| Maritimo
@@ -25,6 +28,7 @@ Home: Belenenses |0 : 2| Paços Ferreira
 Home: Tondela |1 : 1| Rio Ave
 Home: Braga |3 : 2| Vitória Setúbal
 Home: Benfica |1 : 0| Vitória Guimarães
+Round: Ronda 31
 Home: Rio Ave |0 : 1| Benfica
 Home: Vitória Guimarães |1 : 1| Estoril
 Home: Maritimo |1 : 2| Arouca
@@ -34,6 +38,7 @@ Home: Paços Ferreira |1 : 0| Braga
 Home: Sporting |2 : 0| U. Madeira
 Home: Academica |1 : 2| FC Porto
 Home: Boavista |1 : 0| Belenenses
+Round: Ronda 30
 Home: Benfica |2 : 1| Vitória Setúbal
 Home: Braga |3 : 0| Tondela
 Home: FC Porto |4 : 0| Nacional
@@ -43,6 +48,7 @@ Home: U. Madeira |3 : 4| Paços Ferreira
 Home: Moreirense |0 : 1| Sporting
 Home: Estoril |1 : 0| Boavista
 Home: Arouca |0 : 0| Rio Ave
+Round: Ronda 29
 Home: Rio Ave |2 : 0| Vitória Guimarães
 Home: Braga |1 : 1| Moreirense
 Home: Paços Ferreira |1 : 0| FC Porto
@@ -52,6 +58,7 @@ Home: Vitória Setúbal |0 : 1| Belenenses
 Home: Sporting |3 : 1| Maritimo
 Home: Academica |1 : 2| Benfica
 Home: Boavista |0 : 0| Arouca
+Round: Ronda 28
 Home: Belenenses |2 : 5| Sporting
 Home: FC Porto |0 : 1| Tondela
 Home: Moreirense |0 : 1| Rio Ave
@@ -61,6 +68,7 @@ Home: Vitória Guimarães |1 : 1| Boavista
 Home: Maritimo |2 : 0| Nacional
 Home: Arouca |3 : 2| Academica
 Home: Benfica |5 : 1| Braga
+Round: Ronda 27
 Home: Braga |2 : 0| U. Madeira
 Home: Boavista |0 : 1| Benfica
 Home: Academica |0 : 3| Estoril
@@ -70,6 +78,7 @@ Home: Tondela |2 : 2| Belenenses
 Home: Vitória Setúbal |0 : 1| FC Porto
 Home: Sporting |5 : 1| Arouca
 Home: Rio Ave |1 : 0| Maritimo
+Round: Ronda 26
 Home: Benfica |4 : 1| Tondela
 Home: Belenenses |3 : 0| Braga
 Home: Vitória Guimarães |0 : 1| Paços Ferreira
@@ -79,6 +88,7 @@ Home: Nacional |1 : 0| Rio Ave
 Home: FC Porto |3 : 2| U. Madeira
 Home: Estoril |1 : 2| Sporting
 Home: Maritimo |0 : 3| Boavista
+Round: Ronda 25
 Home: Rio Ave |1 : 3| Estoril
 Home: Braga |3 : 1| FC Porto
 Home: Academica |2 : 0| Vitória Guimarães
@@ -88,6 +98,7 @@ Home: U. Madeira |0 : 0| Belenenses
 Home: Vitória Setúbal |0 : 1| Moreirense
 Home: Sporting |0 : 1| Benfica
 Home: Paços Ferreira |2 : 2| Maritimo
+Round: Ronda 24
 Home: Vitória Guimarães |0 : 0| Sporting
 Home: Benfica |2 : 0| U. Madeira
 Home: Belenenses |1 : 2| FC Porto
@@ -97,6 +108,7 @@ Home: Estoril |3 : 0| Vitória Setúbal
 Home: Arouca |0 : 0| Braga
 Home: Boavista |1 : 2| Rio Ave
 Home: Nacional |3 : 0| Paços Ferreira
+Round: Ronda 23
 Home: Sporting |2 : 0| Boavista
 Home: Braga |3 : 3| Vitória Guimarães
 Home: FC Porto |3 : 2| Moreirense
@@ -106,6 +118,7 @@ Home: Vitória Setúbal |1 : 1| Nacional
 Home: Academica |0 : 2| Rio Ave
 Home: Paços Ferreira |1 : 3| Benfica
 Home: U. Madeira |1 : 1| Estoril
+Round: Ronda 22
 Home: Rio Ave |1 : 1| Paços Ferreira
 Home: Maritimo |1 : 3| Braga
 Home: Boavista |0 : 0| Academica
@@ -115,6 +128,7 @@ Home: Vitória Guimarães |2 : 2| Vitória Setúbal
 Home: Nacional |0 : 4| Sporting
 Home: Moreirense |2 : 3| Belenenses
 Home: Benfica |1 : 2| FC Porto
+Round: Ronda 21
 Home: Braga |2 : 0| Estoril
 Home: Sporting |0 : 0| Rio Ave
 Home: FC Porto |1 : 2| Arouca
@@ -124,6 +138,7 @@ Home: U. Madeira |0 : 1| Moreirense
 Home: Tondela |1 : 1| Vitória Guimarães
 Home: Vitória Setúbal |1 : 1| Maritimo
 Home: Belenenses |0 : 5| Benfica
+Round: Ronda 20
 Home: Maritimo |1 : 2| Belenenses
 Home: Moreirense |1 : 4| Benfica
 Home: Boavista |0 : 0| Braga
@@ -133,6 +148,7 @@ Home: Rio Ave |2 : 1| Vitória Setúbal
 Home: Sporting |3 : 2| Academica
 Home: Estoril |1 : 3| FC Porto
 Home: Vitória Guimarães |3 : 1| U. Madeira
+Round: Ronda 19
 Home: Tondela |1 : 2| Boavista
 Home: FC Porto |1 : 0| Maritimo
 Home: Braga |5 : 1| Rio Ave
@@ -142,6 +158,7 @@ Home: Benfica |3 : 1| Arouca
 Home: Moreirense |1 : 3| Estoril
 Home: U. Madeira |3 : 0| Nacional
 Home: Vitória Setúbal |2 : 1| Academica
+Round: Ronda 18
 Home: Boavista |4 : 0| Vitória Setúbal
 Home: Vitória Guimarães |1 : 0| FC Porto
 Home: Nacional |2 : 3| Braga
@@ -151,6 +168,7 @@ Home: Estoril |1 : 2| Benfica
 Home: Maritimo |0 : 1| U. Madeira
 Home: Academica |1 : 1| Paços Ferreira
 Home: Sporting |2 : 2| Tondela
+Round: Ronda 17
 Home: Paços Ferreira |2 : 1| Vitória Setúbal
 Home: Nacional |1 : 4| Benfica
 Home: Boavista |0 : 5| FC Porto
@@ -160,6 +178,7 @@ Home: Maritimo |5 : 1| Moreirense
 Home: Rio Ave |1 : 0| U. Madeira
 Home: Sporting |3 : 2| Braga
 Home: Vitória Guimarães |2 : 2| Arouca
+Round: Ronda 16
 Home: FC Porto |1 : 1| Rio Ave
 Home: Vitória Setúbal |0 : 6| Sporting
 Home: Benfica |6 : 0| Maritimo
@@ -169,6 +188,7 @@ Home: Moreirense |3 : 4| Vitória Guimarães
 Home: Arouca |1 : 0| Estoril
 Home: Tondela |0 : 2| Paços Ferreira
 Home: U. Madeira |1 : 0| Boavista
+Round: Ronda 15
 Home: Rio Ave |2 : 3| Tondela
 Home: Sporting |2 : 0| FC Porto
 Home: Vitória Guimarães |0 : 1| Benfica
@@ -178,6 +198,7 @@ Home: Academica |3 : 1| U. Madeira
 Home: Boavista |0 : 3| Moreirense
 Home: Maritimo |1 : 1| Estoril
 Home: Nacional |2 : 2| Arouca
+Round: Ronda 14
 Home: Braga |1 : 1| Paços Ferreira
 Home: Belenenses |1 : 0| Boavista
 Home: FC Porto |3 : 1| Academica
@@ -187,7 +208,9 @@ Home: Moreirense |2 : 0| Nacional
 Home: Tondela |1 : 3| Vitória Setúbal
 Home: Estoril |0 : 1| Vitória Guimarães
 Home: Arouca |4 : 1| Maritimo
+Round: Ronda 7
 Home: U. Madeira |0 : 0| Benfica
+Round: Ronda 13
 Home: Academica |4 : 3| Belenenses
 Home: Nacional |1 : 2| FC Porto
 Home: Tondela |0 : 1| Braga
@@ -197,6 +220,7 @@ Home: Vitória Guimarães |3 : 4| Maritimo
 Home: Paços Ferreira |6 : 0| U. Madeira
 Home: Rio Ave |3 : 1| Arouca
 Home: Boavista |1 : 1| Estoril
+Round: Ronda 12
 Home: Vitória Guimarães |3 : 1| Rio Ave
 Home: Moreirense |0 : 0| Braga
 Home: Arouca |3 : 2| Boavista
@@ -206,7 +230,9 @@ Home: Maritimo |0 : 1| Sporting
 Home: FC Porto |2 : 1| Paços Ferreira
 Home: Belenenses |0 : 3| Vitória Setúbal
 Home: Benfica |3 : 0| Academica
+Round: Ronda 9
 Home: U. Madeira |0 : 4| FC Porto
+Round: Ronda 11
 Home: Braga |0 : 2| Benfica
 Home: Sporting |1 : 0| Belenenses
 Home: Paços Ferreira |2 : 0| Estoril
@@ -216,6 +242,7 @@ Home: Tondela |0 : 1| FC Porto
 Home: Boavista |1 : 2| Vitória Guimarães
 Home: Vitória Setúbal |2 : 2| U. Madeira
 Home: Nacional |3 : 1| Maritimo
+Round: Ronda 10
 Home: U. Madeira |0 : 1| Braga
 Home: Belenenses |2 : 1| Tondela
 Home: Arouca |0 : 1| Sporting
@@ -225,6 +252,7 @@ Home: Maritimo |3 : 2| Rio Ave
 Home: Moreirense |2 : 0| Paços Ferreira
 Home: Vitória Guimarães |0 : 1| Nacional
 Home: Estoril |1 : 1| Academica
+Round: Ronda 9
 Home: Paços Ferreira |0 : 1| Vitória Guimarães
 Home: Boavista |0 : 1| Maritimo
 Home: Academica |1 : 1| Moreirense
@@ -233,6 +261,7 @@ Home: Vitória Setúbal |0 : 0| Arouca
 Home: Sporting |1 : 0| Estoril
 Home: Braga |4 : 0| Belenenses
 Home: Tondela |0 : 4| Benfica
+Round: Ronda 8
 Home: Belenenses |1 : 0| U. Madeira
 Home: FC Porto |0 : 0| Braga
 Home: Benfica |0 : 3| Sporting
@@ -242,6 +271,7 @@ Home: Vitória Guimarães |1 : 1| Academica
 Home: Estoril |2 : 2| Rio Ave
 Home: Maritimo |0 : 2| Paços Ferreira
 Home: Nacional |0 : 0| Boavista
+Round: Ronda 7
 Home: Sporting |5 : 1| Vitória Guimarães
 Home: FC Porto |4 : 0| Belenenses
 Home: Braga |0 : 0| Arouca
@@ -250,6 +280,7 @@ Home: Academica |1 : 0| Maritimo
 Home: Paços Ferreira |3 : 1| Nacional
 Home: Tondela |1 : 1| Moreirense
 Home: Vitória Setúbal |1 : 0| Estoril
+Round: Ronda 6
 Home: Rio Ave |1 : 0| Academica
 Home: Vitória Guimarães |0 : 1| Braga
 Home: Arouca |2 : 2| Belenenses
@@ -259,6 +290,7 @@ Home: Nacional |1 : 1| Vitória Setúbal
 Home: Boavista |0 : 0| Sporting
 Home: Benfica |3 : 0| Paços Ferreira
 Home: Moreirense |2 : 2| FC Porto
+Round: Ronda 5
 Home: Sporting |1 : 0| Nacional
 Home: Braga |5 : 1| Maritimo
 Home: Belenenses |2 : 0| Moreirense
@@ -268,6 +300,7 @@ Home: U. Madeira |0 : 0| Arouca
 Home: Paços Ferreira |0 : 3| Rio Ave
 Home: Tondela |0 : 1| Estoril
 Home: Vitória Setúbal |2 : 2| Vitória Guimarães
+Round: Ronda 4
 Home: Boavista |0 : 1| Paços Ferreira
 Home: Rio Ave |1 : 2| Sporting
 Home: Vitória Guimarães |1 : 0| Tondela
@@ -277,6 +310,7 @@ Home: Nacional |2 : 0| Academica
 Home: Arouca |1 : 3| FC Porto
 Home: Estoril |1 : 0| Braga
 Home: Benfica |6 : 0| Belenenses
+Round: Ronda 3
 Home: U. Madeira |0 : 0| Vitória Guimarães
 Home: Belenenses |1 : 1| Maritimo
 Home: Academica |1 : 3| Sporting
@@ -286,6 +320,7 @@ Home: Tondela |1 : 0| Nacional
 Home: Benfica |3 : 2| Moreirense
 Home: FC Porto |2 : 0| Estoril
 Home: Vitória Setúbal |2 : 2| Rio Ave
+Round: Ronda 2
 Home: Academica |0 : 4| Vitória Setúbal
 Home: Arouca |1 : 0| Benfica
 Home: Boavista |1 : 0| Tondela
@@ -295,6 +330,7 @@ Home: Vitória Guimarães |1 : 1| Belenenses
 Home: Maritimo |1 : 1| FC Porto
 Home: Sporting |1 : 1| Paços Ferreira
 Home: Rio Ave |1 : 0| Braga
+Round: Ronda 1
 Home: Paços Ferreira |1 : 0| Academica
 Home: Benfica |4 : 0| Estoril
 Home: Braga |2 : 1| Nacional
