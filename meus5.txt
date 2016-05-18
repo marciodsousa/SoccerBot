@@ -1,0 +1,2018 @@
+[
+    {
+        "fixture": "Ronda 34",
+        "matches": [
+            {
+                "homeTeam": "Benfica",
+                "awayTeam": "Nacional",
+                "score": "4 : 1",
+                "link": "http://www.meusresultados.com/jogo/nZ5Il9iQ/"
+            },
+            {
+                "homeTeam": "Braga",
+                "awayTeam": "Sporting",
+                "score": "0 : 4",
+                "link": "http://www.meusresultados.com/jogo/lrhppTas/"
+            },
+            {
+                "homeTeam": "Moreirense",
+                "awayTeam": "Maritimo",
+                "score": "2 : 1",
+                "link": "http://www.meusresultados.com/jogo/xjJQrJ37/"
+            },
+            {
+                "homeTeam": "Belenenses",
+                "awayTeam": "Estoril",
+                "score": "2 : 1",
+                "link": "http://www.meusresultados.com/jogo/Ia1EkkxK/"
+            },
+            {
+                "homeTeam": "Tondela",
+                "awayTeam": "Academica",
+                "score": "2 : 0",
+                "link": "http://www.meusresultados.com/jogo/n1QDoLJl/"
+            },
+            {
+                "homeTeam": "U. Madeira",
+                "awayTeam": "Rio Ave",
+                "score": "1 : 2",
+                "link": "http://www.meusresultados.com/jogo/zyxUswJD/"
+            },
+            {
+                "homeTeam": "Vitória Setúbal",
+                "awayTeam": "Paços Ferreira",
+                "score": "0 : 0",
+                "link": "http://www.meusresultados.com/jogo/rTJMqal1/"
+            },
+            {
+                "homeTeam": "Arouca",
+                "awayTeam": "Vitória Guimarães",
+                "score": "2 : 2",
+                "link": "http://www.meusresultados.com/jogo/v92AjVMD/"
+            },
+            {
+                "homeTeam": "FC Porto",
+                "awayTeam": "Boavista",
+                "score": "4 : 0",
+                "link": "http://www.meusresultados.com/jogo/4xLIpuZf/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 33",
+        "matches": [
+            {
+                "homeTeam": "Estoril",
+                "awayTeam": "Arouca",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/Em6zY1kk/"
+            },
+            {
+                "homeTeam": "Maritimo",
+                "awayTeam": "Benfica",
+                "score": "0 : 2",
+                "link": "http://www.meusresultados.com/jogo/AFaqWuK1/"
+            },
+            {
+                "homeTeam": "Vitória Guimarães",
+                "awayTeam": "Moreirense",
+                "score": "4 : 1",
+                "link": "http://www.meusresultados.com/jogo/8AR9n14r/"
+            },
+            {
+                "homeTeam": "Boavista",
+                "awayTeam": "U. Madeira",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/xSzvhNtL/"
+            },
+            {
+                "homeTeam": "Nacional",
+                "awayTeam": "Belenenses",
+                "score": "2 : 2",
+                "link": "http://www.meusresultados.com/jogo/SjAvXL4e/"
+            },
+            {
+                "homeTeam": "Sporting",
+                "awayTeam": "Vitória Setúbal",
+                "score": "5 : 0",
+                "link": "http://www.meusresultados.com/jogo/GCnVgqC8/"
+            },
+            {
+                "homeTeam": "Academica",
+                "awayTeam": "Braga",
+                "score": "0 : 0",
+                "link": "http://www.meusresultados.com/jogo/f3oZh3RE/"
+            },
+            {
+                "homeTeam": "Rio Ave",
+                "awayTeam": "FC Porto",
+                "score": "1 : 3",
+                "link": "http://www.meusresultados.com/jogo/l6bmVaZ7/"
+            },
+            {
+                "homeTeam": "Paços Ferreira",
+                "awayTeam": "Tondela",
+                "score": "1 : 4",
+                "link": "http://www.meusresultados.com/jogo/jVvrisdR/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 32",
+        "matches": [
+            {
+                "homeTeam": "U. Madeira",
+                "awayTeam": "Academica",
+                "score": "3 : 1",
+                "link": "http://www.meusresultados.com/jogo/6NtcKrLk/"
+            },
+            {
+                "homeTeam": "Arouca",
+                "awayTeam": "Nacional",
+                "score": "3 : 0",
+                "link": "http://www.meusresultados.com/jogo/GhOms6S2/"
+            },
+            {
+                "homeTeam": "Estoril",
+                "awayTeam": "Maritimo",
+                "score": "2 : 1",
+                "link": "http://www.meusresultados.com/jogo/IHK4wORR/"
+            },
+            {
+                "homeTeam": "Moreirense",
+                "awayTeam": "Boavista",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/zco1J2zd/"
+            },
+            {
+                "homeTeam": "FC Porto",
+                "awayTeam": "Sporting",
+                "score": "1 : 3",
+                "link": "http://www.meusresultados.com/jogo/KQ6WYszq/"
+            },
+            {
+                "homeTeam": "Belenenses",
+                "awayTeam": "Paços Ferreira",
+                "score": "0 : 2",
+                "link": "http://www.meusresultados.com/jogo/SSRitQs9/"
+            },
+            {
+                "homeTeam": "Tondela",
+                "awayTeam": "Rio Ave",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/Emp5IMk2/"
+            },
+            {
+                "homeTeam": "Braga",
+                "awayTeam": "Vitória Setúbal",
+                "score": "3 : 2",
+                "link": "http://www.meusresultados.com/jogo/0tQav4CL/"
+            },
+            {
+                "homeTeam": "Benfica",
+                "awayTeam": "Vitória Guimarães",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/MkReupcF/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 31",
+        "matches": [
+            {
+                "homeTeam": "Rio Ave",
+                "awayTeam": "Benfica",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/ULXDUSrc/"
+            },
+            {
+                "homeTeam": "Vitória Guimarães",
+                "awayTeam": "Estoril",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/zZ2ES6D9/"
+            },
+            {
+                "homeTeam": "Maritimo",
+                "awayTeam": "Arouca",
+                "score": "1 : 2",
+                "link": "http://www.meusresultados.com/jogo/2FuS6Pjj/"
+            },
+            {
+                "homeTeam": "Nacional",
+                "awayTeam": "Moreirense",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/EP1IRQSF/"
+            },
+            {
+                "homeTeam": "Vitória Setúbal",
+                "awayTeam": "Tondela",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/Mk5QP4cS/"
+            },
+            {
+                "homeTeam": "Paços Ferreira",
+                "awayTeam": "Braga",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/8CWHTnb3/"
+            },
+            {
+                "homeTeam": "Sporting",
+                "awayTeam": "U. Madeira",
+                "score": "2 : 0",
+                "link": "http://www.meusresultados.com/jogo/SWsgLO5q/"
+            },
+            {
+                "homeTeam": "Academica",
+                "awayTeam": "FC Porto",
+                "score": "1 : 2",
+                "link": "http://www.meusresultados.com/jogo/8n1MQprM/"
+            },
+            {
+                "homeTeam": "Boavista",
+                "awayTeam": "Belenenses",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/GIqW5q6d/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 30",
+        "matches": [
+            {
+                "homeTeam": "Benfica",
+                "awayTeam": "Vitória Setúbal",
+                "score": "2 : 1",
+                "link": "http://www.meusresultados.com/jogo/EiOkQDiB/"
+            },
+            {
+                "homeTeam": "Braga",
+                "awayTeam": "Tondela",
+                "score": "3 : 0",
+                "link": "http://www.meusresultados.com/jogo/rRSgPX6H/"
+            },
+            {
+                "homeTeam": "FC Porto",
+                "awayTeam": "Nacional",
+                "score": "4 : 0",
+                "link": "http://www.meusresultados.com/jogo/hxzsSZMb/"
+            },
+            {
+                "homeTeam": "Maritimo",
+                "awayTeam": "Vitória Guimarães",
+                "score": "3 : 0",
+                "link": "http://www.meusresultados.com/jogo/t2WxTF7h/"
+            },
+            {
+                "homeTeam": "Belenenses",
+                "awayTeam": "Academica",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/8E1O9h7U/"
+            },
+            {
+                "homeTeam": "U. Madeira",
+                "awayTeam": "Paços Ferreira",
+                "score": "3 : 4",
+                "link": "http://www.meusresultados.com/jogo/nuXYTehn/"
+            },
+            {
+                "homeTeam": "Moreirense",
+                "awayTeam": "Sporting",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/KjjN75yp/"
+            },
+            {
+                "homeTeam": "Estoril",
+                "awayTeam": "Boavista",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/8lYUUywt/"
+            },
+            {
+                "homeTeam": "Arouca",
+                "awayTeam": "Rio Ave",
+                "score": "0 : 0",
+                "link": "http://www.meusresultados.com/jogo/z1PoRgx5/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 29",
+        "matches": [
+            {
+                "homeTeam": "Rio Ave",
+                "awayTeam": "Vitória Guimarães",
+                "score": "2 : 0",
+                "link": "http://www.meusresultados.com/jogo/hIBaFdwg/"
+            },
+            {
+                "homeTeam": "Braga",
+                "awayTeam": "Moreirense",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/McaCCfNB/"
+            },
+            {
+                "homeTeam": "Paços Ferreira",
+                "awayTeam": "FC Porto",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/z13GBExI/"
+            },
+            {
+                "homeTeam": "Nacional",
+                "awayTeam": "Estoril",
+                "score": "4 : 1",
+                "link": "http://www.meusresultados.com/jogo/ERCeGxOn/"
+            },
+            {
+                "homeTeam": "Tondela",
+                "awayTeam": "U. Madeira",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/UN2KAYiO/"
+            },
+            {
+                "homeTeam": "Vitória Setúbal",
+                "awayTeam": "Belenenses",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/W2NjHI8t/"
+            },
+            {
+                "homeTeam": "Sporting",
+                "awayTeam": "Maritimo",
+                "score": "3 : 1",
+                "link": "http://www.meusresultados.com/jogo/0rB3EGha/"
+            },
+            {
+                "homeTeam": "Academica",
+                "awayTeam": "Benfica",
+                "score": "1 : 2",
+                "link": "http://www.meusresultados.com/jogo/vZ97Dz85/"
+            },
+            {
+                "homeTeam": "Boavista",
+                "awayTeam": "Arouca",
+                "score": "0 : 0",
+                "link": "http://www.meusresultados.com/jogo/fsWOLb0P/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 28",
+        "matches": [
+            {
+                "homeTeam": "Belenenses",
+                "awayTeam": "Sporting",
+                "score": "2 : 5",
+                "link": "http://www.meusresultados.com/jogo/EDXM1w9g/"
+            },
+            {
+                "homeTeam": "FC Porto",
+                "awayTeam": "Tondela",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/tvrscFNO/"
+            },
+            {
+                "homeTeam": "Moreirense",
+                "awayTeam": "Rio Ave",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/2mqwbe8I/"
+            },
+            {
+                "homeTeam": "Estoril",
+                "awayTeam": "Paços Ferreira",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/6LkUaHw6/"
+            },
+            {
+                "homeTeam": "U. Madeira",
+                "awayTeam": "Vitória Setúbal",
+                "score": "2 : 2",
+                "link": "http://www.meusresultados.com/jogo/WlrI2Jgm/"
+            },
+            {
+                "homeTeam": "Vitória Guimarães",
+                "awayTeam": "Boavista",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/hbqE3avs/"
+            },
+            {
+                "homeTeam": "Maritimo",
+                "awayTeam": "Nacional",
+                "score": "2 : 0",
+                "link": "http://www.meusresultados.com/jogo/pClYbygC/"
+            },
+            {
+                "homeTeam": "Arouca",
+                "awayTeam": "Academica",
+                "score": "3 : 2",
+                "link": "http://www.meusresultados.com/jogo/06in8uWP/"
+            },
+            {
+                "homeTeam": "Benfica",
+                "awayTeam": "Braga",
+                "score": "5 : 1",
+                "link": "http://www.meusresultados.com/jogo/CbjQ0cOa/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 27",
+        "matches": [
+            {
+                "homeTeam": "Braga",
+                "awayTeam": "U. Madeira",
+                "score": "2 : 0",
+                "link": "http://www.meusresultados.com/jogo/KAEapxvJ/"
+            },
+            {
+                "homeTeam": "Boavista",
+                "awayTeam": "Benfica",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/Eidnk0Pm/"
+            },
+            {
+                "homeTeam": "Academica",
+                "awayTeam": "Estoril",
+                "score": "0 : 3",
+                "link": "http://www.meusresultados.com/jogo/67AeoIOC/"
+            },
+            {
+                "homeTeam": "Nacional",
+                "awayTeam": "Vitória Guimarães",
+                "score": "3 : 2",
+                "link": "http://www.meusresultados.com/jogo/hrejlKvf/"
+            },
+            {
+                "homeTeam": "Paços Ferreira",
+                "awayTeam": "Moreirense",
+                "score": "0 : 0",
+                "link": "http://www.meusresultados.com/jogo/MFhr9LGJ/"
+            },
+            {
+                "homeTeam": "Tondela",
+                "awayTeam": "Belenenses",
+                "score": "2 : 2",
+                "link": "http://www.meusresultados.com/jogo/KUdrjtAs/"
+            },
+            {
+                "homeTeam": "Vitória Setúbal",
+                "awayTeam": "FC Porto",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/CpBinb96/"
+            },
+            {
+                "homeTeam": "Sporting",
+                "awayTeam": "Arouca",
+                "score": "5 : 1",
+                "link": "http://www.meusresultados.com/jogo/r95GfM1Q/"
+            },
+            {
+                "homeTeam": "Rio Ave",
+                "awayTeam": "Maritimo",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/YgCmmvf0/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 26",
+        "matches": [
+            {
+                "homeTeam": "Benfica",
+                "awayTeam": "Tondela",
+                "score": "4 : 1",
+                "link": "http://www.meusresultados.com/jogo/fmPLYvu7/"
+            },
+            {
+                "homeTeam": "Belenenses",
+                "awayTeam": "Braga",
+                "score": "3 : 0",
+                "link": "http://www.meusresultados.com/jogo/COZGZKP0/"
+            },
+            {
+                "homeTeam": "Vitória Guimarães",
+                "awayTeam": "Paços Ferreira",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/6RW8ysel/"
+            },
+            {
+                "homeTeam": "Arouca",
+                "awayTeam": "Vitória Setúbal",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/0lWCz1Af/"
+            },
+            {
+                "homeTeam": "Moreirense",
+                "awayTeam": "Academica",
+                "score": "2 : 2",
+                "link": "http://www.meusresultados.com/jogo/CQEzfkBF/"
+            },
+            {
+                "homeTeam": "Nacional",
+                "awayTeam": "Rio Ave",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/MgH7drXD/"
+            },
+            {
+                "homeTeam": "FC Porto",
+                "awayTeam": "U. Madeira",
+                "score": "3 : 2",
+                "link": "http://www.meusresultados.com/jogo/0pGBe2nK/"
+            },
+            {
+                "homeTeam": "Estoril",
+                "awayTeam": "Sporting",
+                "score": "1 : 2",
+                "link": "http://www.meusresultados.com/jogo/YwOPXbfD/"
+            },
+            {
+                "homeTeam": "Maritimo",
+                "awayTeam": "Boavista",
+                "score": "0 : 3",
+                "link": "http://www.meusresultados.com/jogo/SzY4xNur/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 25",
+        "matches": [
+            {
+                "homeTeam": "Rio Ave",
+                "awayTeam": "Estoril",
+                "score": "1 : 3",
+                "link": "http://www.meusresultados.com/jogo/jwLYZTJq/"
+            },
+            {
+                "homeTeam": "Braga",
+                "awayTeam": "FC Porto",
+                "score": "3 : 1",
+                "link": "http://www.meusresultados.com/jogo/vDGSeBt3/"
+            },
+            {
+                "homeTeam": "Academica",
+                "awayTeam": "Vitória Guimarães",
+                "score": "2 : 0",
+                "link": "http://www.meusresultados.com/jogo/O4YuY7ld/"
+            },
+            {
+                "homeTeam": "Boavista",
+                "awayTeam": "Nacional",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/Q9COdiRd/"
+            },
+            {
+                "homeTeam": "Tondela",
+                "awayTeam": "Arouca",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/h2ubtWtG/"
+            },
+            {
+                "homeTeam": "U. Madeira",
+                "awayTeam": "Belenenses",
+                "score": "0 : 0",
+                "link": "http://www.meusresultados.com/jogo/65q2ujdM/"
+            },
+            {
+                "homeTeam": "Vitória Setúbal",
+                "awayTeam": "Moreirense",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/pEZyZmZk/"
+            },
+            {
+                "homeTeam": "Sporting",
+                "awayTeam": "Benfica",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/lUY6vABS/"
+            },
+            {
+                "homeTeam": "Paços Ferreira",
+                "awayTeam": "Maritimo",
+                "score": "2 : 2",
+                "link": "http://www.meusresultados.com/jogo/YZFWfVe9/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 24",
+        "matches": [
+            {
+                "homeTeam": "Vitória Guimarães",
+                "awayTeam": "Sporting",
+                "score": "0 : 0",
+                "link": "http://www.meusresultados.com/jogo/KlsjrhC3/"
+            },
+            {
+                "homeTeam": "Benfica",
+                "awayTeam": "U. Madeira",
+                "score": "2 : 0",
+                "link": "http://www.meusresultados.com/jogo/AJaaLU4j/"
+            },
+            {
+                "homeTeam": "Belenenses",
+                "awayTeam": "FC Porto",
+                "score": "1 : 2",
+                "link": "http://www.meusresultados.com/jogo/bqdeMAkp/"
+            },
+            {
+                "homeTeam": "Maritimo",
+                "awayTeam": "Academica",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/pxGKSCCG/"
+            },
+            {
+                "homeTeam": "Moreirense",
+                "awayTeam": "Tondela",
+                "score": "1 : 2",
+                "link": "http://www.meusresultados.com/jogo/butfsCR9/"
+            },
+            {
+                "homeTeam": "Estoril",
+                "awayTeam": "Vitória Setúbal",
+                "score": "3 : 0",
+                "link": "http://www.meusresultados.com/jogo/2DnoqYdc/"
+            },
+            {
+                "homeTeam": "Arouca",
+                "awayTeam": "Braga",
+                "score": "0 : 0",
+                "link": "http://www.meusresultados.com/jogo/h2JSQjsT/"
+            },
+            {
+                "homeTeam": "Boavista",
+                "awayTeam": "Rio Ave",
+                "score": "1 : 2",
+                "link": "http://www.meusresultados.com/jogo/OMmspEsi/"
+            },
+            {
+                "homeTeam": "Nacional",
+                "awayTeam": "Paços Ferreira",
+                "score": "3 : 0",
+                "link": "http://www.meusresultados.com/jogo/EBKORWRM/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 23",
+        "matches": [
+            {
+                "homeTeam": "Sporting",
+                "awayTeam": "Boavista",
+                "score": "2 : 0",
+                "link": "http://www.meusresultados.com/jogo/YyoaTOoU/"
+            },
+            {
+                "homeTeam": "Braga",
+                "awayTeam": "Vitória Guimarães",
+                "score": "3 : 3",
+                "link": "http://www.meusresultados.com/jogo/6oHGThcA/"
+            },
+            {
+                "homeTeam": "FC Porto",
+                "awayTeam": "Moreirense",
+                "score": "3 : 2",
+                "link": "http://www.meusresultados.com/jogo/GdO3WfDi/"
+            },
+            {
+                "homeTeam": "Belenenses",
+                "awayTeam": "Arouca",
+                "score": "0 : 2",
+                "link": "http://www.meusresultados.com/jogo/QBsiVpHH/"
+            },
+            {
+                "homeTeam": "Tondela",
+                "awayTeam": "Maritimo",
+                "score": "3 : 4",
+                "link": "http://www.meusresultados.com/jogo/x6PaXzbo/"
+            },
+            {
+                "homeTeam": "Vitória Setúbal",
+                "awayTeam": "Nacional",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/AJN7VESc/"
+            },
+            {
+                "homeTeam": "Academica",
+                "awayTeam": "Rio Ave",
+                "score": "0 : 2",
+                "link": "http://www.meusresultados.com/jogo/OMRBUYs4/"
+            },
+            {
+                "homeTeam": "Paços Ferreira",
+                "awayTeam": "Benfica",
+                "score": "1 : 3",
+                "link": "http://www.meusresultados.com/jogo/vFoeU4WN/"
+            },
+            {
+                "homeTeam": "U. Madeira",
+                "awayTeam": "Estoril",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/zoXQOrfo/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 22",
+        "matches": [
+            {
+                "homeTeam": "Rio Ave",
+                "awayTeam": "Paços Ferreira",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/GMsSzkmt/"
+            },
+            {
+                "homeTeam": "Maritimo",
+                "awayTeam": "Braga",
+                "score": "1 : 3",
+                "link": "http://www.meusresultados.com/jogo/v16MF5HU/"
+            },
+            {
+                "homeTeam": "Boavista",
+                "awayTeam": "Academica",
+                "score": "0 : 0",
+                "link": "http://www.meusresultados.com/jogo/rZCDHRnI/"
+            },
+            {
+                "homeTeam": "Arouca",
+                "awayTeam": "U. Madeira",
+                "score": "3 : 0",
+                "link": "http://www.meusresultados.com/jogo/E70VZ82n/"
+            },
+            {
+                "homeTeam": "Estoril",
+                "awayTeam": "Tondela",
+                "score": "2 : 1",
+                "link": "http://www.meusresultados.com/jogo/zNlvYnXb/"
+            },
+            {
+                "homeTeam": "Vitória Guimarães",
+                "awayTeam": "Vitória Setúbal",
+                "score": "2 : 2",
+                "link": "http://www.meusresultados.com/jogo/4dgrX6n5/"
+            },
+            {
+                "homeTeam": "Nacional",
+                "awayTeam": "Sporting",
+                "score": "0 : 4",
+                "link": "http://www.meusresultados.com/jogo/rmhnWQ1B/"
+            },
+            {
+                "homeTeam": "Moreirense",
+                "awayTeam": "Belenenses",
+                "score": "2 : 3",
+                "link": "http://www.meusresultados.com/jogo/0A7IGo2O/"
+            },
+            {
+                "homeTeam": "Benfica",
+                "awayTeam": "FC Porto",
+                "score": "1 : 2",
+                "link": "http://www.meusresultados.com/jogo/dWkzZSHh/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 21",
+        "matches": [
+            {
+                "homeTeam": "Braga",
+                "awayTeam": "Estoril",
+                "score": "2 : 0",
+                "link": "http://www.meusresultados.com/jogo/4rE9I7XB/"
+            },
+            {
+                "homeTeam": "Sporting",
+                "awayTeam": "Rio Ave",
+                "score": "0 : 0",
+                "link": "http://www.meusresultados.com/jogo/EgLdL9mg/"
+            },
+            {
+                "homeTeam": "FC Porto",
+                "awayTeam": "Arouca",
+                "score": "1 : 2",
+                "link": "http://www.meusresultados.com/jogo/z5HYGfd7/"
+            },
+            {
+                "homeTeam": "Academica",
+                "awayTeam": "Nacional",
+                "score": "2 : 2",
+                "link": "http://www.meusresultados.com/jogo/dIA1KT2a/"
+            },
+            {
+                "homeTeam": "Paços Ferreira",
+                "awayTeam": "Boavista",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/l8LxGEBD/"
+            },
+            {
+                "homeTeam": "U. Madeira",
+                "awayTeam": "Moreirense",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/z3MhMkYn/"
+            },
+            {
+                "homeTeam": "Tondela",
+                "awayTeam": "Vitória Guimarães",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/jDaLvblE/"
+            },
+            {
+                "homeTeam": "Vitória Setúbal",
+                "awayTeam": "Maritimo",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/SxNlNVIt/"
+            },
+            {
+                "homeTeam": "Belenenses",
+                "awayTeam": "Benfica",
+                "score": "0 : 5",
+                "link": "http://www.meusresultados.com/jogo/ALE5JmI5/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 20",
+        "matches": [
+            {
+                "homeTeam": "Maritimo",
+                "awayTeam": "Belenenses",
+                "score": "1 : 2",
+                "link": "http://www.meusresultados.com/jogo/GfowSK48/"
+            },
+            {
+                "homeTeam": "Moreirense",
+                "awayTeam": "Benfica",
+                "score": "1 : 4",
+                "link": "http://www.meusresultados.com/jogo/fopsRvKE/"
+            },
+            {
+                "homeTeam": "Boavista",
+                "awayTeam": "Braga",
+                "score": "0 : 0",
+                "link": "http://www.meusresultados.com/jogo/lpwjPIlR/"
+            },
+            {
+                "homeTeam": "Arouca",
+                "awayTeam": "Paços Ferreira",
+                "score": "2 : 2",
+                "link": "http://www.meusresultados.com/jogo/xAZoQbZK/"
+            },
+            {
+                "homeTeam": "Nacional",
+                "awayTeam": "Tondela",
+                "score": "3 : 1",
+                "link": "http://www.meusresultados.com/jogo/2iJQIGRf/"
+            },
+            {
+                "homeTeam": "Rio Ave",
+                "awayTeam": "Vitória Setúbal",
+                "score": "2 : 1",
+                "link": "http://www.meusresultados.com/jogo/trIUHzs1/"
+            },
+            {
+                "homeTeam": "Sporting",
+                "awayTeam": "Academica",
+                "score": "3 : 2",
+                "link": "http://www.meusresultados.com/jogo/Svhe3yS7/"
+            },
+            {
+                "homeTeam": "Estoril",
+                "awayTeam": "FC Porto",
+                "score": "1 : 3",
+                "link": "http://www.meusresultados.com/jogo/6PPHKxcr/"
+            },
+            {
+                "homeTeam": "Vitória Guimarães",
+                "awayTeam": "U. Madeira",
+                "score": "3 : 1",
+                "link": "http://www.meusresultados.com/jogo/pGOLJdCl/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 19",
+        "matches": [
+            {
+                "homeTeam": "Tondela",
+                "awayTeam": "Boavista",
+                "score": "1 : 2",
+                "link": "http://www.meusresultados.com/jogo/jwqCDLkF/"
+            },
+            {
+                "homeTeam": "FC Porto",
+                "awayTeam": "Maritimo",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/djECBaKR/"
+            },
+            {
+                "homeTeam": "Braga",
+                "awayTeam": "Rio Ave",
+                "score": "5 : 1",
+                "link": "http://www.meusresultados.com/jogo/6P3n5cce/"
+            },
+            {
+                "homeTeam": "Belenenses",
+                "awayTeam": "Vitória Guimarães",
+                "score": "3 : 3",
+                "link": "http://www.meusresultados.com/jogo/hMar6wrk/"
+            },
+            {
+                "homeTeam": "Paços Ferreira",
+                "awayTeam": "Sporting",
+                "score": "1 : 3",
+                "link": "http://www.meusresultados.com/jogo/llgi4HC1/"
+            },
+            {
+                "homeTeam": "Benfica",
+                "awayTeam": "Arouca",
+                "score": "3 : 1",
+                "link": "http://www.meusresultados.com/jogo/dGq8E1z9/"
+            },
+            {
+                "homeTeam": "Moreirense",
+                "awayTeam": "Estoril",
+                "score": "1 : 3",
+                "link": "http://www.meusresultados.com/jogo/UTsGCu5L/"
+            },
+            {
+                "homeTeam": "U. Madeira",
+                "awayTeam": "Nacional",
+                "score": "3 : 0",
+                "link": "http://www.meusresultados.com/jogo/ba0v7JSr/"
+            },
+            {
+                "homeTeam": "Vitória Setúbal",
+                "awayTeam": "Academica",
+                "score": "2 : 1",
+                "link": "http://www.meusresultados.com/jogo/rDu4FsL2/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 18",
+        "matches": [
+            {
+                "homeTeam": "Boavista",
+                "awayTeam": "Vitória Setúbal",
+                "score": "4 : 0",
+                "link": "http://www.meusresultados.com/jogo/fia9g0bq/"
+            },
+            {
+                "homeTeam": "Vitória Guimarães",
+                "awayTeam": "FC Porto",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/YsbDhKDk/"
+            },
+            {
+                "homeTeam": "Nacional",
+                "awayTeam": "Braga",
+                "score": "2 : 3",
+                "link": "http://www.meusresultados.com/jogo/rDJYa2LF/"
+            },
+            {
+                "homeTeam": "Arouca",
+                "awayTeam": "Moreirense",
+                "score": "1 : 2",
+                "link": "http://www.meusresultados.com/jogo/lAMtbtjS/"
+            },
+            {
+                "homeTeam": "Rio Ave",
+                "awayTeam": "Belenenses",
+                "score": "1 : 2",
+                "link": "http://www.meusresultados.com/jogo/noQP1Oj3/"
+            },
+            {
+                "homeTeam": "Estoril",
+                "awayTeam": "Benfica",
+                "score": "1 : 2",
+                "link": "http://www.meusresultados.com/jogo/4MKU0r69/"
+            },
+            {
+                "homeTeam": "Maritimo",
+                "awayTeam": "U. Madeira",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/2H2HivTe/"
+            },
+            {
+                "homeTeam": "Academica",
+                "awayTeam": "Paços Ferreira",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/xzJxaMzM/"
+            },
+            {
+                "homeTeam": "Sporting",
+                "awayTeam": "Tondela",
+                "score": "2 : 2",
+                "link": "http://www.meusresultados.com/jogo/t81Ljbr2/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 17",
+        "matches": [
+            {
+                "homeTeam": "Paços Ferreira",
+                "awayTeam": "Vitória Setúbal",
+                "score": "2 : 1",
+                "link": "http://www.meusresultados.com/jogo/AaaenqiG/"
+            },
+            {
+                "homeTeam": "Nacional",
+                "awayTeam": "Benfica",
+                "score": "1 : 4",
+                "link": "http://www.meusresultados.com/jogo/fiwvvLbd/"
+            },
+            {
+                "homeTeam": "Boavista",
+                "awayTeam": "FC Porto",
+                "score": "0 : 5",
+                "link": "http://www.meusresultados.com/jogo/SzAjmPyA/"
+            },
+            {
+                "homeTeam": "Academica",
+                "awayTeam": "Tondela",
+                "score": "2 : 1",
+                "link": "http://www.meusresultados.com/jogo/EX5nl5M3/"
+            },
+            {
+                "homeTeam": "Estoril",
+                "awayTeam": "Belenenses",
+                "score": "2 : 0",
+                "link": "http://www.meusresultados.com/jogo/tlZZv1qj/"
+            },
+            {
+                "homeTeam": "Maritimo",
+                "awayTeam": "Moreirense",
+                "score": "5 : 1",
+                "link": "http://www.meusresultados.com/jogo/ljbao36M/"
+            },
+            {
+                "homeTeam": "Rio Ave",
+                "awayTeam": "U. Madeira",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/dGc3pNLS/"
+            },
+            {
+                "homeTeam": "Sporting",
+                "awayTeam": "Braga",
+                "score": "3 : 2",
+                "link": "http://www.meusresultados.com/jogo/8fRL24yc/"
+            },
+            {
+                "homeTeam": "Vitória Guimarães",
+                "awayTeam": "Arouca",
+                "score": "2 : 2",
+                "link": "http://www.meusresultados.com/jogo/bPqVusUq/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 16",
+        "matches": [
+            {
+                "homeTeam": "FC Porto",
+                "awayTeam": "Rio Ave",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/zVrLpWFB/"
+            },
+            {
+                "homeTeam": "Vitória Setúbal",
+                "awayTeam": "Sporting",
+                "score": "0 : 6",
+                "link": "http://www.meusresultados.com/jogo/YF1OqjVH/"
+            },
+            {
+                "homeTeam": "Benfica",
+                "awayTeam": "Maritimo",
+                "score": "6 : 0",
+                "link": "http://www.meusresultados.com/jogo/h6gGoC05/"
+            },
+            {
+                "homeTeam": "Braga",
+                "awayTeam": "Academica",
+                "score": "3 : 0",
+                "link": "http://www.meusresultados.com/jogo/QBPiSNap/"
+            },
+            {
+                "homeTeam": "Belenenses",
+                "awayTeam": "Nacional",
+                "score": "2 : 2",
+                "link": "http://www.meusresultados.com/jogo/EFfCnhoa/"
+            },
+            {
+                "homeTeam": "Moreirense",
+                "awayTeam": "Vitória Guimarães",
+                "score": "3 : 4",
+                "link": "http://www.meusresultados.com/jogo/KA6rko7c/"
+            },
+            {
+                "homeTeam": "Arouca",
+                "awayTeam": "Estoril",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/ptj8mYVh/"
+            },
+            {
+                "homeTeam": "Tondela",
+                "awayTeam": "Paços Ferreira",
+                "score": "0 : 2",
+                "link": "http://www.meusresultados.com/jogo/tK7vjRii/"
+            },
+            {
+                "homeTeam": "U. Madeira",
+                "awayTeam": "Boavista",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/42OeRsFj/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 15",
+        "matches": [
+            {
+                "homeTeam": "Rio Ave",
+                "awayTeam": "Tondela",
+                "score": "2 : 3",
+                "link": "http://www.meusresultados.com/jogo/z97pYhW5/"
+            },
+            {
+                "homeTeam": "Sporting",
+                "awayTeam": "FC Porto",
+                "score": "2 : 0",
+                "link": "http://www.meusresultados.com/jogo/6ki4lEGn/"
+            },
+            {
+                "homeTeam": "Vitória Guimarães",
+                "awayTeam": "Benfica",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/Y1MkVjGO/"
+            },
+            {
+                "homeTeam": "Paços Ferreira",
+                "awayTeam": "Belenenses",
+                "score": "2 : 2",
+                "link": "http://www.meusresultados.com/jogo/fBNoWW0I/"
+            },
+            {
+                "homeTeam": "Vitória Setúbal",
+                "awayTeam": "Braga",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/n5AXgzgP/"
+            },
+            {
+                "homeTeam": "Academica",
+                "awayTeam": "U. Madeira",
+                "score": "3 : 1",
+                "link": "http://www.meusresultados.com/jogo/Sr4xzF1g/"
+            },
+            {
+                "homeTeam": "Boavista",
+                "awayTeam": "Moreirense",
+                "score": "0 : 3",
+                "link": "http://www.meusresultados.com/jogo/tn8tZYGa/"
+            },
+            {
+                "homeTeam": "Maritimo",
+                "awayTeam": "Estoril",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/OQ1akf1t/"
+            },
+            {
+                "homeTeam": "Nacional",
+                "awayTeam": "Arouca",
+                "score": "2 : 2",
+                "link": "http://www.meusresultados.com/jogo/Ea6lXCoC/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 14",
+        "matches": [
+            {
+                "homeTeam": "Braga",
+                "awayTeam": "Paços Ferreira",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/M5sBJgHC/"
+            },
+            {
+                "homeTeam": "Belenenses",
+                "awayTeam": "Boavista",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/lhq3LFn0/"
+            },
+            {
+                "homeTeam": "FC Porto",
+                "awayTeam": "Academica",
+                "score": "3 : 1",
+                "link": "http://www.meusresultados.com/jogo/EyO1tHOP/"
+            },
+            {
+                "homeTeam": "U. Madeira",
+                "awayTeam": "Sporting",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/pKEXzenm/"
+            },
+            {
+                "homeTeam": "Benfica",
+                "awayTeam": "Rio Ave",
+                "score": "3 : 1",
+                "link": "http://www.meusresultados.com/jogo/Srr7KZ16/"
+            },
+            {
+                "homeTeam": "Moreirense",
+                "awayTeam": "Nacional",
+                "score": "2 : 0",
+                "link": "http://www.meusresultados.com/jogo/zoPcsc9J/"
+            },
+            {
+                "homeTeam": "Tondela",
+                "awayTeam": "Vitória Setúbal",
+                "score": "1 : 3",
+                "link": "http://www.meusresultados.com/jogo/6TFTyyXt/"
+            },
+            {
+                "homeTeam": "Estoril",
+                "awayTeam": "Vitória Guimarães",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/YuoFIDWI/"
+            },
+            {
+                "homeTeam": "Arouca",
+                "awayTeam": "Maritimo",
+                "score": "4 : 1",
+                "link": "http://www.meusresultados.com/jogo/WGlbMeXg/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 7",
+        "matches": [
+            {
+                "homeTeam": "U. Madeira",
+                "awayTeam": "Benfica",
+                "score": "0 : 0",
+                "link": "http://www.meusresultados.com/jogo/Gtlzv6t6/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 13",
+        "matches": [
+            {
+                "homeTeam": "Academica",
+                "awayTeam": "Belenenses",
+                "score": "4 : 3",
+                "link": "http://www.meusresultados.com/jogo/ChFL8x3f/"
+            },
+            {
+                "homeTeam": "Nacional",
+                "awayTeam": "FC Porto",
+                "score": "1 : 2",
+                "link": "http://www.meusresultados.com/jogo/0SAFUJPD/"
+            },
+            {
+                "homeTeam": "Tondela",
+                "awayTeam": "Braga",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/b3jjOH2s/"
+            },
+            {
+                "homeTeam": "Sporting",
+                "awayTeam": "Moreirense",
+                "score": "3 : 1",
+                "link": "http://www.meusresultados.com/jogo/hQkfNyIm/"
+            },
+            {
+                "homeTeam": "Vitória Setúbal",
+                "awayTeam": "Benfica",
+                "score": "2 : 4",
+                "link": "http://www.meusresultados.com/jogo/MsaOScfQ/"
+            },
+            {
+                "homeTeam": "Vitória Guimarães",
+                "awayTeam": "Maritimo",
+                "score": "3 : 4",
+                "link": "http://www.meusresultados.com/jogo/nB7Y5zmD/"
+            },
+            {
+                "homeTeam": "Paços Ferreira",
+                "awayTeam": "U. Madeira",
+                "score": "6 : 0",
+                "link": "http://www.meusresultados.com/jogo/8K8U6GX6/"
+            },
+            {
+                "homeTeam": "Rio Ave",
+                "awayTeam": "Arouca",
+                "score": "3 : 1",
+                "link": "http://www.meusresultados.com/jogo/vJ9JTwuK/"
+            },
+            {
+                "homeTeam": "Boavista",
+                "awayTeam": "Estoril",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/QeJP7dI0/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 12",
+        "matches": [
+            {
+                "homeTeam": "Vitória Guimarães",
+                "awayTeam": "Rio Ave",
+                "score": "3 : 1",
+                "link": "http://www.meusresultados.com/jogo/EcXYHtt8/"
+            },
+            {
+                "homeTeam": "Moreirense",
+                "awayTeam": "Braga",
+                "score": "0 : 0",
+                "link": "http://www.meusresultados.com/jogo/boZpFvQQ/"
+            },
+            {
+                "homeTeam": "Arouca",
+                "awayTeam": "Boavista",
+                "score": "3 : 2",
+                "link": "http://www.meusresultados.com/jogo/2a3pBA7e/"
+            },
+            {
+                "homeTeam": "Estoril",
+                "awayTeam": "Nacional",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/AP6h9lx8/"
+            },
+            {
+                "homeTeam": "U. Madeira",
+                "awayTeam": "Tondela",
+                "score": "2 : 0",
+                "link": "http://www.meusresultados.com/jogo/IVFH9Iml/"
+            },
+            {
+                "homeTeam": "Maritimo",
+                "awayTeam": "Sporting",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/QXzwH0eE/"
+            },
+            {
+                "homeTeam": "FC Porto",
+                "awayTeam": "Paços Ferreira",
+                "score": "2 : 1",
+                "link": "http://www.meusresultados.com/jogo/vuHDAbYs/"
+            },
+            {
+                "homeTeam": "Belenenses",
+                "awayTeam": "Vitória Setúbal",
+                "score": "0 : 3",
+                "link": "http://www.meusresultados.com/jogo/WY7lAUM1/"
+            },
+            {
+                "homeTeam": "Benfica",
+                "awayTeam": "Academica",
+                "score": "3 : 0",
+                "link": "http://www.meusresultados.com/jogo/KfzsGKAK/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 9",
+        "matches": [
+            {
+                "homeTeam": "U. Madeira",
+                "awayTeam": "FC Porto",
+                "score": "0 : 4",
+                "link": "http://www.meusresultados.com/jogo/QaP710vU/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 11",
+        "matches": [
+            {
+                "homeTeam": "Braga",
+                "awayTeam": "Benfica",
+                "score": "0 : 2",
+                "link": "http://www.meusresultados.com/jogo/dfl0WKw4/"
+            },
+            {
+                "homeTeam": "Sporting",
+                "awayTeam": "Belenenses",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/GrX2X0Oc/"
+            },
+            {
+                "homeTeam": "Paços Ferreira",
+                "awayTeam": "Estoril",
+                "score": "2 : 0",
+                "link": "http://www.meusresultados.com/jogo/zom4VvgA/"
+            },
+            {
+                "homeTeam": "Academica",
+                "awayTeam": "Arouca",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/AotDAwHp/"
+            },
+            {
+                "homeTeam": "Rio Ave",
+                "awayTeam": "Moreirense",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/tpFyDWxq/"
+            },
+            {
+                "homeTeam": "Tondela",
+                "awayTeam": "FC Porto",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/O84tCjhk/"
+            },
+            {
+                "homeTeam": "Boavista",
+                "awayTeam": "Vitória Guimarães",
+                "score": "1 : 2",
+                "link": "http://www.meusresultados.com/jogo/OlpH9cWj/"
+            },
+            {
+                "homeTeam": "Vitória Setúbal",
+                "awayTeam": "U. Madeira",
+                "score": "2 : 2",
+                "link": "http://www.meusresultados.com/jogo/xhYbYt9i/"
+            },
+            {
+                "homeTeam": "Nacional",
+                "awayTeam": "Maritimo",
+                "score": "3 : 1",
+                "link": "http://www.meusresultados.com/jogo/U7n8Ub8G/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 10",
+        "matches": [
+            {
+                "homeTeam": "U. Madeira",
+                "awayTeam": "Braga",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/QD4tGagN/"
+            },
+            {
+                "homeTeam": "Belenenses",
+                "awayTeam": "Tondela",
+                "score": "2 : 1",
+                "link": "http://www.meusresultados.com/jogo/4QfIL3Po/"
+            },
+            {
+                "homeTeam": "Arouca",
+                "awayTeam": "Sporting",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/S8BZdKno/"
+            },
+            {
+                "homeTeam": "FC Porto",
+                "awayTeam": "Vitória Setúbal",
+                "score": "2 : 0",
+                "link": "http://www.meusresultados.com/jogo/Im1YHLOA/"
+            },
+            {
+                "homeTeam": "Benfica",
+                "awayTeam": "Boavista",
+                "score": "2 : 0",
+                "link": "http://www.meusresultados.com/jogo/rHgMKNvh/"
+            },
+            {
+                "homeTeam": "Maritimo",
+                "awayTeam": "Rio Ave",
+                "score": "3 : 2",
+                "link": "http://www.meusresultados.com/jogo/zPBTI194/"
+            },
+            {
+                "homeTeam": "Moreirense",
+                "awayTeam": "Paços Ferreira",
+                "score": "2 : 0",
+                "link": "http://www.meusresultados.com/jogo/443pFJ8T/"
+            },
+            {
+                "homeTeam": "Vitória Guimarães",
+                "awayTeam": "Nacional",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/xvgQJsfb/"
+            },
+            {
+                "homeTeam": "Estoril",
+                "awayTeam": "Academica",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/dv0xHuvH/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 9",
+        "matches": [
+            {
+                "homeTeam": "Paços Ferreira",
+                "awayTeam": "Vitória Guimarães",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/A3Zr74Ah/"
+            },
+            {
+                "homeTeam": "Boavista",
+                "awayTeam": "Maritimo",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/Svpv8pen/"
+            },
+            {
+                "homeTeam": "Academica",
+                "awayTeam": "Moreirense",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/Eytz9Qut/"
+            },
+            {
+                "homeTeam": "Rio Ave",
+                "awayTeam": "Nacional",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/WxQ32tPN/"
+            },
+            {
+                "homeTeam": "Vitória Setúbal",
+                "awayTeam": "Arouca",
+                "score": "0 : 0",
+                "link": "http://www.meusresultados.com/jogo/lfYn6OPb/"
+            },
+            {
+                "homeTeam": "Sporting",
+                "awayTeam": "Estoril",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/IZLa3M9H/"
+            },
+            {
+                "homeTeam": "Braga",
+                "awayTeam": "Belenenses",
+                "score": "4 : 0",
+                "link": "http://www.meusresultados.com/jogo/dKXj5ru5/"
+            },
+            {
+                "homeTeam": "Tondela",
+                "awayTeam": "Benfica",
+                "score": "0 : 4",
+                "link": "http://www.meusresultados.com/jogo/zBWf42fB/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 8",
+        "matches": [
+            {
+                "homeTeam": "Belenenses",
+                "awayTeam": "U. Madeira",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/zoL0fRQn/"
+            },
+            {
+                "homeTeam": "FC Porto",
+                "awayTeam": "Braga",
+                "score": "0 : 0",
+                "link": "http://www.meusresultados.com/jogo/bP5QlNfO/"
+            },
+            {
+                "homeTeam": "Benfica",
+                "awayTeam": "Sporting",
+                "score": "0 : 3",
+                "link": "http://www.meusresultados.com/jogo/EyK4gotg/"
+            },
+            {
+                "homeTeam": "Arouca",
+                "awayTeam": "Tondela",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/6BGde7Bt/"
+            },
+            {
+                "homeTeam": "Moreirense",
+                "awayTeam": "Vitória Setúbal",
+                "score": "0 : 2",
+                "link": "http://www.meusresultados.com/jogo/8zDDiPA5/"
+            },
+            {
+                "homeTeam": "Vitória Guimarães",
+                "awayTeam": "Academica",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/2cCHjqQB/"
+            },
+            {
+                "homeTeam": "Estoril",
+                "awayTeam": "Rio Ave",
+                "score": "2 : 2",
+                "link": "http://www.meusresultados.com/jogo/d099h5ea/"
+            },
+            {
+                "homeTeam": "Maritimo",
+                "awayTeam": "Paços Ferreira",
+                "score": "0 : 2",
+                "link": "http://www.meusresultados.com/jogo/xG4UmsAU/"
+            },
+            {
+                "homeTeam": "Nacional",
+                "awayTeam": "Boavista",
+                "score": "0 : 0",
+                "link": "http://www.meusresultados.com/jogo/tlBLk3uI/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 7",
+        "matches": [
+            {
+                "homeTeam": "Sporting",
+                "awayTeam": "Vitória Guimarães",
+                "score": "5 : 1",
+                "link": "http://www.meusresultados.com/jogo/2cjny4QO/"
+            },
+            {
+                "homeTeam": "FC Porto",
+                "awayTeam": "Belenenses",
+                "score": "4 : 0",
+                "link": "http://www.meusresultados.com/jogo/lKHwunRa/"
+            },
+            {
+                "homeTeam": "Braga",
+                "awayTeam": "Arouca",
+                "score": "0 : 0",
+                "link": "http://www.meusresultados.com/jogo/ATIZuSBg/"
+            },
+            {
+                "homeTeam": "Rio Ave",
+                "awayTeam": "Boavista",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/fXnvwQeC/"
+            },
+            {
+                "homeTeam": "Academica",
+                "awayTeam": "Maritimo",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/23FRslss/"
+            },
+            {
+                "homeTeam": "Paços Ferreira",
+                "awayTeam": "Nacional",
+                "score": "3 : 1",
+                "link": "http://www.meusresultados.com/jogo/G6JVt8dm/"
+            },
+            {
+                "homeTeam": "Tondela",
+                "awayTeam": "Moreirense",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/42UUam3P/"
+            },
+            {
+                "homeTeam": "Vitória Setúbal",
+                "awayTeam": "Estoril",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/lfnrxpBI/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 6",
+        "matches": [
+            {
+                "homeTeam": "Rio Ave",
+                "awayTeam": "Academica",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/rF2g0dc8/"
+            },
+            {
+                "homeTeam": "Vitória Guimarães",
+                "awayTeam": "Braga",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/M51caGCE/"
+            },
+            {
+                "homeTeam": "Arouca",
+                "awayTeam": "Belenenses",
+                "score": "2 : 2",
+                "link": "http://www.meusresultados.com/jogo/82yOpHcL/"
+            },
+            {
+                "homeTeam": "Estoril",
+                "awayTeam": "U. Madeira",
+                "score": "2 : 1",
+                "link": "http://www.meusresultados.com/jogo/M9HbvFzk/"
+            },
+            {
+                "homeTeam": "Maritimo",
+                "awayTeam": "Tondela",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/YqL2wZke/"
+            },
+            {
+                "homeTeam": "Nacional",
+                "awayTeam": "Vitória Setúbal",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/fa9ByDK7/"
+            },
+            {
+                "homeTeam": "Boavista",
+                "awayTeam": "Sporting",
+                "score": "0 : 0",
+                "link": "http://www.meusresultados.com/jogo/SnIfueLr/"
+            },
+            {
+                "homeTeam": "Benfica",
+                "awayTeam": "Paços Ferreira",
+                "score": "3 : 0",
+                "link": "http://www.meusresultados.com/jogo/QwWSqyDR/"
+            },
+            {
+                "homeTeam": "Moreirense",
+                "awayTeam": "FC Porto",
+                "score": "2 : 2",
+                "link": "http://www.meusresultados.com/jogo/G8A7xg51/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 5",
+        "matches": [
+            {
+                "homeTeam": "Sporting",
+                "awayTeam": "Nacional",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/UBxKocrF/"
+            },
+            {
+                "homeTeam": "Braga",
+                "awayTeam": "Maritimo",
+                "score": "5 : 1",
+                "link": "http://www.meusresultados.com/jogo/fZcHRyiq/"
+            },
+            {
+                "homeTeam": "Belenenses",
+                "awayTeam": "Moreirense",
+                "score": "2 : 0",
+                "link": "http://www.meusresultados.com/jogo/lhLlWHrS/"
+            },
+            {
+                "homeTeam": "FC Porto",
+                "awayTeam": "Benfica",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/KteTOZz2/"
+            },
+            {
+                "homeTeam": "Academica",
+                "awayTeam": "Boavista",
+                "score": "0 : 2",
+                "link": "http://www.meusresultados.com/jogo/zkHpXcTL/"
+            },
+            {
+                "homeTeam": "U. Madeira",
+                "awayTeam": "Arouca",
+                "score": "0 : 0",
+                "link": "http://www.meusresultados.com/jogo/tjdPPFLe/"
+            },
+            {
+                "homeTeam": "Paços Ferreira",
+                "awayTeam": "Rio Ave",
+                "score": "0 : 3",
+                "link": "http://www.meusresultados.com/jogo/YPdLQe6k/"
+            },
+            {
+                "homeTeam": "Tondela",
+                "awayTeam": "Estoril",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/MoZBmJD2/"
+            },
+            {
+                "homeTeam": "Vitória Setúbal",
+                "awayTeam": "Vitória Guimarães",
+                "score": "2 : 2",
+                "link": "http://www.meusresultados.com/jogo/zkwGnwT8/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 4",
+        "matches": [
+            {
+                "homeTeam": "Boavista",
+                "awayTeam": "Paços Ferreira",
+                "score": "0 : 1",
+                "link": "http://www.meusresultados.com/jogo/AmsCIbES/"
+            },
+            {
+                "homeTeam": "Rio Ave",
+                "awayTeam": "Sporting",
+                "score": "1 : 2",
+                "link": "http://www.meusresultados.com/jogo/69PTztUd/"
+            },
+            {
+                "homeTeam": "Vitória Guimarães",
+                "awayTeam": "Tondela",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/CdTwEIMq/"
+            },
+            {
+                "homeTeam": "Maritimo",
+                "awayTeam": "Vitória Setúbal",
+                "score": "5 : 2",
+                "link": "http://www.meusresultados.com/jogo/fLIrDxxj/"
+            },
+            {
+                "homeTeam": "Moreirense",
+                "awayTeam": "U. Madeira",
+                "score": "0 : 0",
+                "link": "http://www.meusresultados.com/jogo/h6ynCdid/"
+            },
+            {
+                "homeTeam": "Nacional",
+                "awayTeam": "Academica",
+                "score": "2 : 0",
+                "link": "http://www.meusresultados.com/jogo/p0OXZaq3/"
+            },
+            {
+                "homeTeam": "Arouca",
+                "awayTeam": "FC Porto",
+                "score": "1 : 3",
+                "link": "http://www.meusresultados.com/jogo/tEx8JvaM/"
+            },
+            {
+                "homeTeam": "Estoril",
+                "awayTeam": "Braga",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/tSHtYwEF/"
+            },
+            {
+                "homeTeam": "Benfica",
+                "awayTeam": "Belenenses",
+                "score": "6 : 0",
+                "link": "http://www.meusresultados.com/jogo/2yJxZJb9/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 3",
+        "matches": [
+            {
+                "homeTeam": "U. Madeira",
+                "awayTeam": "Vitória Guimarães",
+                "score": "0 : 0",
+                "link": "http://www.meusresultados.com/jogo/6epeMtF3/"
+            },
+            {
+                "homeTeam": "Belenenses",
+                "awayTeam": "Maritimo",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/xKft5upT/"
+            },
+            {
+                "homeTeam": "Academica",
+                "awayTeam": "Sporting",
+                "score": "1 : 3",
+                "link": "http://www.meusresultados.com/jogo/OGjx6LUM/"
+            },
+            {
+                "homeTeam": "Braga",
+                "awayTeam": "Boavista",
+                "score": "4 : 0",
+                "link": "http://www.meusresultados.com/jogo/YsnmO2pi/"
+            },
+            {
+                "homeTeam": "Paços Ferreira",
+                "awayTeam": "Arouca",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/YktCaJ7j/"
+            },
+            {
+                "homeTeam": "Tondela",
+                "awayTeam": "Nacional",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/KblaL0U9/"
+            },
+            {
+                "homeTeam": "Benfica",
+                "awayTeam": "Moreirense",
+                "score": "3 : 2",
+                "link": "http://www.meusresultados.com/jogo/fas80ahp/"
+            },
+            {
+                "homeTeam": "FC Porto",
+                "awayTeam": "Estoril",
+                "score": "2 : 0",
+                "link": "http://www.meusresultados.com/jogo/CYpiNMac/"
+            },
+            {
+                "homeTeam": "Vitória Setúbal",
+                "awayTeam": "Rio Ave",
+                "score": "2 : 2",
+                "link": "http://www.meusresultados.com/jogo/2Nw4KKqG/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 2",
+        "matches": [
+            {
+                "homeTeam": "Academica",
+                "awayTeam": "Vitória Setúbal",
+                "score": "0 : 4",
+                "link": "http://www.meusresultados.com/jogo/hYad5lvC/"
+            },
+            {
+                "homeTeam": "Arouca",
+                "awayTeam": "Benfica",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/A9f148gI/"
+            },
+            {
+                "homeTeam": "Boavista",
+                "awayTeam": "Tondela",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/nZHUntOp/"
+            },
+            {
+                "homeTeam": "Estoril",
+                "awayTeam": "Moreirense",
+                "score": "2 : 0",
+                "link": "http://www.meusresultados.com/jogo/0x6CBP0o/"
+            },
+            {
+                "homeTeam": "Nacional",
+                "awayTeam": "U. Madeira",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/fyaL93Vc/"
+            },
+            {
+                "homeTeam": "Vitória Guimarães",
+                "awayTeam": "Belenenses",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/YRcP8Np4/"
+            },
+            {
+                "homeTeam": "Maritimo",
+                "awayTeam": "FC Porto",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/CC9GAqGi/"
+            },
+            {
+                "homeTeam": "Sporting",
+                "awayTeam": "Paços Ferreira",
+                "score": "1 : 1",
+                "link": "http://www.meusresultados.com/jogo/th1X61FG/"
+            },
+            {
+                "homeTeam": "Rio Ave",
+                "awayTeam": "Braga",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/212T7s0A/"
+            }
+        ]
+    },
+    {
+        "fixture": "Ronda 1",
+        "matches": [
+            {
+                "homeTeam": "Paços Ferreira",
+                "awayTeam": "Academica",
+                "score": "1 : 0",
+                "link": "http://www.meusresultados.com/jogo/S87AEhHP/"
+            },
+            {
+                "homeTeam": "Benfica",
+                "awayTeam": "Estoril",
+                "score": "4 : 0",
+                "link": "http://www.meusresultados.com/jogo/pprQ6tbJ/"
+            },
+            {
+                "homeTeam": "Braga",
+                "awayTeam": "Nacional",
+                "score": "2 : 1",
+                "link": "http://www.meusresultados.com/jogo/lI86FY1J/"
+            },
+            {
+                "homeTeam": "Moreirense",
+                "awayTeam": "Arouca",
+                "score": "0 : 2",
+                "link": "http://www.meusresultados.com/jogo/p29yACPt/"
+            },
+            {
+                "homeTeam": "U. Madeira",
+                "awayTeam": "Maritimo",
+                "score": "2 : 1",
+                "link": "http://www.meusresultados.com/jogo/KK1l7A9a/"
+            },
+            {
+                "homeTeam": "Vitória Setúbal",
+                "awayTeam": "Boavista",
+                "score": "2 : 2",
+                "link": "http://www.meusresultados.com/jogo/Oh8u9Wvm/"
+            },
+            {
+                "homeTeam": "FC Porto",
+                "awayTeam": "Vitória Guimarães",
+                "score": "3 : 0",
+                "link": "http://www.meusresultados.com/jogo/6Hcp8jfg/"
+            },
+            {
+                "homeTeam": "Belenenses",
+                "awayTeam": "Rio Ave",
+                "score": "3 : 3",
+                "link": "http://www.meusresultados.com/jogo/WtvM7MrD/"
+            },
+            {
+                "homeTeam": "Tondela",
+                "awayTeam": "Sporting",
+                "score": "1 : 2",
+                "link": "http://www.meusresultados.com/jogo/Es1h6UO5/"
+            }
+        ]
+    }
+]
