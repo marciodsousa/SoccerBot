@@ -1,0 +1,648 @@
+Round: Ronda 34
+Home: Benfica |4 : 1| Nacional
+id: nZ5Il9iQ
+Home: Braga |0 : 4| Sporting
+id: lrhppTas
+Home: Moreirense |2 : 1| Maritimo
+id: xjJQrJ37
+Home: Belenenses |2 : 1| Estoril
+id: Ia1EkkxK
+Home: Tondela |2 : 0| Academica
+id: n1QDoLJl
+Home: U. Madeira |1 : 2| Rio Ave
+id: zyxUswJD
+Home: Vitória Setúbal |0 : 0| Paços Ferreira
+id: rTJMqal1
+Home: Arouca |2 : 2| Vitória Guimarães
+id: v92AjVMD
+Home: FC Porto |4 : 0| Boavista
+id: 4xLIpuZf
+Round: Ronda 33
+Home: Estoril |1 : 1| Arouca
+id: Em6zY1kk
+Home: Maritimo |0 : 2| Benfica
+id: AFaqWuK1
+Home: Vitória Guimarães |4 : 1| Moreirense
+id: 8AR9n14r
+Home: Boavista |1 : 0| U. Madeira
+id: xSzvhNtL
+Home: Nacional |2 : 2| Belenenses
+id: SjAvXL4e
+Home: Sporting |5 : 0| Vitória Setúbal
+id: GCnVgqC8
+Home: Academica |0 : 0| Braga
+id: f3oZh3RE
+Home: Rio Ave |1 : 3| FC Porto
+id: l6bmVaZ7
+Home: Paços Ferreira |1 : 4| Tondela
+id: jVvrisdR
+Round: Ronda 32
+Home: U. Madeira |3 : 1| Academica
+id: 6NtcKrLk
+Home: Arouca |3 : 0| Nacional
+id: GhOms6S2
+Home: Estoril |2 : 1| Maritimo
+id: IHK4wORR
+Home: Moreirense |1 : 1| Boavista
+id: zco1J2zd
+Home: FC Porto |1 : 3| Sporting
+id: KQ6WYszq
+Home: Belenenses |0 : 2| Paços Ferreira
+id: SSRitQs9
+Home: Tondela |1 : 1| Rio Ave
+id: Emp5IMk2
+Home: Braga |3 : 2| Vitória Setúbal
+id: 0tQav4CL
+Home: Benfica |1 : 0| Vitória Guimarães
+id: MkReupcF
+Round: Ronda 31
+Home: Rio Ave |0 : 1| Benfica
+id: ULXDUSrc
+Home: Vitória Guimarães |1 : 1| Estoril
+id: zZ2ES6D9
+Home: Maritimo |1 : 2| Arouca
+id: 2FuS6Pjj
+Home: Nacional |0 : 1| Moreirense
+id: EP1IRQSF
+Home: Vitória Setúbal |0 : 1| Tondela
+id: Mk5QP4cS
+Home: Paços Ferreira |1 : 0| Braga
+id: 8CWHTnb3
+Home: Sporting |2 : 0| U. Madeira
+id: SWsgLO5q
+Home: Academica |1 : 2| FC Porto
+id: 8n1MQprM
+Home: Boavista |1 : 0| Belenenses
+id: GIqW5q6d
+Round: Ronda 30
+Home: Benfica |2 : 1| Vitória Setúbal
+id: EiOkQDiB
+Home: Braga |3 : 0| Tondela
+id: rRSgPX6H
+Home: FC Porto |4 : 0| Nacional
+id: hxzsSZMb
+Home: Maritimo |3 : 0| Vitória Guimarães
+id: t2WxTF7h
+Home: Belenenses |1 : 1| Academica
+id: 8E1O9h7U
+Home: U. Madeira |3 : 4| Paços Ferreira
+id: nuXYTehn
+Home: Moreirense |0 : 1| Sporting
+id: KjjN75yp
+Home: Estoril |1 : 0| Boavista
+id: 8lYUUywt
+Home: Arouca |0 : 0| Rio Ave
+id: z1PoRgx5
+Round: Ronda 29
+Home: Rio Ave |2 : 0| Vitória Guimarães
+id: hIBaFdwg
+Home: Braga |1 : 1| Moreirense
+id: McaCCfNB
+Home: Paços Ferreira |1 : 0| FC Porto
+id: z13GBExI
+Home: Nacional |4 : 1| Estoril
+id: ERCeGxOn
+Home: Tondela |1 : 0| U. Madeira
+id: UN2KAYiO
+Home: Vitória Setúbal |0 : 1| Belenenses
+id: W2NjHI8t
+Home: Sporting |3 : 1| Maritimo
+id: 0rB3EGha
+Home: Academica |1 : 2| Benfica
+id: vZ97Dz85
+Home: Boavista |0 : 0| Arouca
+id: fsWOLb0P
+Round: Ronda 28
+Home: Belenenses |2 : 5| Sporting
+id: EDXM1w9g
+Home: FC Porto |0 : 1| Tondela
+id: tvrscFNO
+Home: Moreirense |0 : 1| Rio Ave
+id: 2mqwbe8I
+Home: Estoril |1 : 0| Paços Ferreira
+id: 6LkUaHw6
+Home: U. Madeira |2 : 2| Vitória Setúbal
+id: WlrI2Jgm
+Home: Vitória Guimarães |1 : 1| Boavista
+id: hbqE3avs
+Home: Maritimo |2 : 0| Nacional
+id: pClYbygC
+Home: Arouca |3 : 2| Academica
+id: 06in8uWP
+Home: Benfica |5 : 1| Braga
+id: CbjQ0cOa
+Round: Ronda 27
+Home: Braga |2 : 0| U. Madeira
+id: KAEapxvJ
+Home: Boavista |0 : 1| Benfica
+id: Eidnk0Pm
+Home: Academica |0 : 3| Estoril
+id: 67AeoIOC
+Home: Nacional |3 : 2| Vitória Guimarães
+id: hrejlKvf
+Home: Paços Ferreira |0 : 0| Moreirense
+id: MFhr9LGJ
+Home: Tondela |2 : 2| Belenenses
+id: KUdrjtAs
+Home: Vitória Setúbal |0 : 1| FC Porto
+id: CpBinb96
+Home: Sporting |5 : 1| Arouca
+id: r95GfM1Q
+Home: Rio Ave |1 : 0| Maritimo
+id: YgCmmvf0
+Round: Ronda 26
+Home: Benfica |4 : 1| Tondela
+id: fmPLYvu7
+Home: Belenenses |3 : 0| Braga
+id: COZGZKP0
+Home: Vitória Guimarães |0 : 1| Paços Ferreira
+id: 6RW8ysel
+Home: Arouca |1 : 0| Vitória Setúbal
+id: 0lWCz1Af
+Home: Moreirense |2 : 2| Academica
+id: CQEzfkBF
+Home: Nacional |1 : 0| Rio Ave
+id: MgH7drXD
+Home: FC Porto |3 : 2| U. Madeira
+id: 0pGBe2nK
+Home: Estoril |1 : 2| Sporting
+id: YwOPXbfD
+Home: Maritimo |0 : 3| Boavista
+id: SzY4xNur
+Round: Ronda 25
+Home: Rio Ave |1 : 3| Estoril
+id: jwLYZTJq
+Home: Braga |3 : 1| FC Porto
+id: vDGSeBt3
+Home: Academica |2 : 0| Vitória Guimarães
+id: O4YuY7ld
+Home: Boavista |0 : 1| Nacional
+id: Q9COdiRd
+Home: Tondela |0 : 1| Arouca
+id: h2ubtWtG
+Home: U. Madeira |0 : 0| Belenenses
+id: 65q2ujdM
+Home: Vitória Setúbal |0 : 1| Moreirense
+id: pEZyZmZk
+Home: Sporting |0 : 1| Benfica
+id: lUY6vABS
+Home: Paços Ferreira |2 : 2| Maritimo
+id: YZFWfVe9
+Round: Ronda 24
+Home: Vitória Guimarães |0 : 0| Sporting
+id: KlsjrhC3
+Home: Benfica |2 : 0| U. Madeira
+id: AJaaLU4j
+Home: Belenenses |1 : 2| FC Porto
+id: bqdeMAkp
+Home: Maritimo |1 : 0| Academica
+id: pxGKSCCG
+Home: Moreirense |1 : 2| Tondela
+id: butfsCR9
+Home: Estoril |3 : 0| Vitória Setúbal
+id: 2DnoqYdc
+Home: Arouca |0 : 0| Braga
+id: h2JSQjsT
+Home: Boavista |1 : 2| Rio Ave
+id: OMmspEsi
+Home: Nacional |3 : 0| Paços Ferreira
+id: EBKORWRM
+Round: Ronda 23
+Home: Sporting |2 : 0| Boavista
+id: YyoaTOoU
+Home: Braga |3 : 3| Vitória Guimarães
+id: 6oHGThcA
+Home: FC Porto |3 : 2| Moreirense
+id: GdO3WfDi
+Home: Belenenses |0 : 2| Arouca
+id: QBsiVpHH
+Home: Tondela |3 : 4| Maritimo
+id: x6PaXzbo
+Home: Vitória Setúbal |1 : 1| Nacional
+id: AJN7VESc
+Home: Academica |0 : 2| Rio Ave
+id: OMRBUYs4
+Home: Paços Ferreira |1 : 3| Benfica
+id: vFoeU4WN
+Home: U. Madeira |1 : 1| Estoril
+id: zoXQOrfo
+Round: Ronda 22
+Home: Rio Ave |1 : 1| Paços Ferreira
+id: GMsSzkmt
+Home: Maritimo |1 : 3| Braga
+id: v16MF5HU
+Home: Boavista |0 : 0| Academica
+id: rZCDHRnI
+Home: Arouca |3 : 0| U. Madeira
+id: E70VZ82n
+Home: Estoril |2 : 1| Tondela
+id: zNlvYnXb
+Home: Vitória Guimarães |2 : 2| Vitória Setúbal
+id: 4dgrX6n5
+Home: Nacional |0 : 4| Sporting
+id: rmhnWQ1B
+Home: Moreirense |2 : 3| Belenenses
+id: 0A7IGo2O
+Home: Benfica |1 : 2| FC Porto
+id: dWkzZSHh
+Round: Ronda 21
+Home: Braga |2 : 0| Estoril
+id: 4rE9I7XB
+Home: Sporting |0 : 0| Rio Ave
+id: EgLdL9mg
+Home: FC Porto |1 : 2| Arouca
+id: z5HYGfd7
+Home: Academica |2 : 2| Nacional
+id: dIA1KT2a
+Home: Paços Ferreira |0 : 1| Boavista
+id: l8LxGEBD
+Home: U. Madeira |0 : 1| Moreirense
+id: z3MhMkYn
+Home: Tondela |1 : 1| Vitória Guimarães
+id: jDaLvblE
+Home: Vitória Setúbal |1 : 1| Maritimo
+id: SxNlNVIt
+Home: Belenenses |0 : 5| Benfica
+id: ALE5JmI5
+Round: Ronda 20
+Home: Maritimo |1 : 2| Belenenses
+id: GfowSK48
+Home: Moreirense |1 : 4| Benfica
+id: fopsRvKE
+Home: Boavista |0 : 0| Braga
+id: lpwjPIlR
+Home: Arouca |2 : 2| Paços Ferreira
+id: xAZoQbZK
+Home: Nacional |3 : 1| Tondela
+id: 2iJQIGRf
+Home: Rio Ave |2 : 1| Vitória Setúbal
+id: trIUHzs1
+Home: Sporting |3 : 2| Academica
+id: Svhe3yS7
+Home: Estoril |1 : 3| FC Porto
+id: 6PPHKxcr
+Home: Vitória Guimarães |3 : 1| U. Madeira
+id: pGOLJdCl
+Round: Ronda 19
+Home: Tondela |1 : 2| Boavista
+id: jwqCDLkF
+Home: FC Porto |1 : 0| Maritimo
+id: djECBaKR
+Home: Braga |5 : 1| Rio Ave
+id: 6P3n5cce
+Home: Belenenses |3 : 3| Vitória Guimarães
+id: hMar6wrk
+Home: Paços Ferreira |1 : 3| Sporting
+id: llgi4HC1
+Home: Benfica |3 : 1| Arouca
+id: dGq8E1z9
+Home: Moreirense |1 : 3| Estoril
+id: UTsGCu5L
+Home: U. Madeira |3 : 0| Nacional
+id: ba0v7JSr
+Home: Vitória Setúbal |2 : 1| Academica
+id: rDu4FsL2
+Round: Ronda 18
+Home: Boavista |4 : 0| Vitória Setúbal
+id: fia9g0bq
+Home: Vitória Guimarães |1 : 0| FC Porto
+id: YsbDhKDk
+Home: Nacional |2 : 3| Braga
+id: rDJYa2LF
+Home: Arouca |1 : 2| Moreirense
+id: lAMtbtjS
+Home: Rio Ave |1 : 2| Belenenses
+id: noQP1Oj3
+Home: Estoril |1 : 2| Benfica
+id: 4MKU0r69
+Home: Maritimo |0 : 1| U. Madeira
+id: 2H2HivTe
+Home: Academica |1 : 1| Paços Ferreira
+id: xzJxaMzM
+Home: Sporting |2 : 2| Tondela
+id: t81Ljbr2
+Round: Ronda 17
+Home: Paços Ferreira |2 : 1| Vitória Setúbal
+id: AaaenqiG
+Home: Nacional |1 : 4| Benfica
+id: fiwvvLbd
+Home: Boavista |0 : 5| FC Porto
+id: SzAjmPyA
+Home: Academica |2 : 1| Tondela
+id: EX5nl5M3
+Home: Estoril |2 : 0| Belenenses
+id: tlZZv1qj
+Home: Maritimo |5 : 1| Moreirense
+id: ljbao36M
+Home: Rio Ave |1 : 0| U. Madeira
+id: dGc3pNLS
+Home: Sporting |3 : 2| Braga
+id: 8fRL24yc
+Home: Vitória Guimarães |2 : 2| Arouca
+id: bPqVusUq
+Round: Ronda 16
+Home: FC Porto |1 : 1| Rio Ave
+id: zVrLpWFB
+Home: Vitória Setúbal |0 : 6| Sporting
+id: YF1OqjVH
+Home: Benfica |6 : 0| Maritimo
+id: h6gGoC05
+Home: Braga |3 : 0| Academica
+id: QBPiSNap
+Home: Belenenses |2 : 2| Nacional
+id: EFfCnhoa
+Home: Moreirense |3 : 4| Vitória Guimarães
+id: KA6rko7c
+Home: Arouca |1 : 0| Estoril
+id: ptj8mYVh
+Home: Tondela |0 : 2| Paços Ferreira
+id: tK7vjRii
+Home: U. Madeira |1 : 0| Boavista
+id: 42OeRsFj
+Round: Ronda 15
+Home: Rio Ave |2 : 3| Tondela
+id: z97pYhW5
+Home: Sporting |2 : 0| FC Porto
+id: 6ki4lEGn
+Home: Vitória Guimarães |0 : 1| Benfica
+id: Y1MkVjGO
+Home: Paços Ferreira |2 : 2| Belenenses
+id: fBNoWW0I
+Home: Vitória Setúbal |1 : 1| Braga
+id: n5AXgzgP
+Home: Academica |3 : 1| U. Madeira
+id: Sr4xzF1g
+Home: Boavista |0 : 3| Moreirense
+id: tn8tZYGa
+Home: Maritimo |1 : 1| Estoril
+id: OQ1akf1t
+Home: Nacional |2 : 2| Arouca
+id: Ea6lXCoC
+Round: Ronda 14
+Home: Braga |1 : 1| Paços Ferreira
+id: M5sBJgHC
+Home: Belenenses |1 : 0| Boavista
+id: lhq3LFn0
+Home: FC Porto |3 : 1| Academica
+id: EyO1tHOP
+Home: U. Madeira |1 : 0| Sporting
+id: pKEXzenm
+Home: Benfica |3 : 1| Rio Ave
+id: Srr7KZ16
+Home: Moreirense |2 : 0| Nacional
+id: zoPcsc9J
+Home: Tondela |1 : 3| Vitória Setúbal
+id: 6TFTyyXt
+Home: Estoril |0 : 1| Vitória Guimarães
+id: YuoFIDWI
+Home: Arouca |4 : 1| Maritimo
+id: WGlbMeXg
+Round: Ronda 7
+Home: U. Madeira |0 : 0| Benfica
+id: Gtlzv6t6
+Round: Ronda 13
+Home: Academica |4 : 3| Belenenses
+id: ChFL8x3f
+Home: Nacional |1 : 2| FC Porto
+id: 0SAFUJPD
+Home: Tondela |0 : 1| Braga
+id: b3jjOH2s
+Home: Sporting |3 : 1| Moreirense
+id: hQkfNyIm
+Home: Vitória Setúbal |2 : 4| Benfica
+id: MsaOScfQ
+Home: Vitória Guimarães |3 : 4| Maritimo
+id: nB7Y5zmD
+Home: Paços Ferreira |6 : 0| U. Madeira
+id: 8K8U6GX6
+Home: Rio Ave |3 : 1| Arouca
+id: vJ9JTwuK
+Home: Boavista |1 : 1| Estoril
+id: QeJP7dI0
+Round: Ronda 12
+Home: Vitória Guimarães |3 : 1| Rio Ave
+id: EcXYHtt8
+Home: Moreirense |0 : 0| Braga
+id: boZpFvQQ
+Home: Arouca |3 : 2| Boavista
+id: 2a3pBA7e
+Home: Estoril |1 : 1| Nacional
+id: AP6h9lx8
+Home: U. Madeira |2 : 0| Tondela
+id: IVFH9Iml
+Home: Maritimo |0 : 1| Sporting
+id: QXzwH0eE
+Home: FC Porto |2 : 1| Paços Ferreira
+id: vuHDAbYs
+Home: Belenenses |0 : 3| Vitória Setúbal
+id: WY7lAUM1
+Home: Benfica |3 : 0| Academica
+id: KfzsGKAK
+Round: Ronda 9
+Home: U. Madeira |0 : 4| FC Porto
+id: QaP710vU
+Round: Ronda 11
+Home: Braga |0 : 2| Benfica
+id: dfl0WKw4
+Home: Sporting |1 : 0| Belenenses
+id: GrX2X0Oc
+Home: Paços Ferreira |2 : 0| Estoril
+id: zom4VvgA
+Home: Academica |1 : 1| Arouca
+id: AotDAwHp
+Home: Rio Ave |0 : 1| Moreirense
+id: tpFyDWxq
+Home: Tondela |0 : 1| FC Porto
+id: O84tCjhk
+Home: Boavista |1 : 2| Vitória Guimarães
+id: OlpH9cWj
+Home: Vitória Setúbal |2 : 2| U. Madeira
+id: xhYbYt9i
+Home: Nacional |3 : 1| Maritimo
+id: U7n8Ub8G
+Round: Ronda 10
+Home: U. Madeira |0 : 1| Braga
+id: QD4tGagN
+Home: Belenenses |2 : 1| Tondela
+id: 4QfIL3Po
+Home: Arouca |0 : 1| Sporting
+id: S8BZdKno
+Home: FC Porto |2 : 0| Vitória Setúbal
+id: Im1YHLOA
+Home: Benfica |2 : 0| Boavista
+id: rHgMKNvh
+Home: Maritimo |3 : 2| Rio Ave
+id: zPBTI194
+Home: Moreirense |2 : 0| Paços Ferreira
+id: 443pFJ8T
+Home: Vitória Guimarães |0 : 1| Nacional
+id: xvgQJsfb
+Home: Estoril |1 : 1| Academica
+id: dv0xHuvH
+Round: Ronda 9
+Home: Paços Ferreira |0 : 1| Vitória Guimarães
+id: A3Zr74Ah
+Home: Boavista |0 : 1| Maritimo
+id: Svpv8pen
+Home: Academica |1 : 1| Moreirense
+id: Eytz9Qut
+Home: Rio Ave |1 : 0| Nacional
+id: WxQ32tPN
+Home: Vitória Setúbal |0 : 0| Arouca
+id: lfYn6OPb
+Home: Sporting |1 : 0| Estoril
+id: IZLa3M9H
+Home: Braga |4 : 0| Belenenses
+id: dKXj5ru5
+Home: Tondela |0 : 4| Benfica
+id: zBWf42fB
+Round: Ronda 8
+Home: Belenenses |1 : 0| U. Madeira
+id: zoL0fRQn
+Home: FC Porto |0 : 0| Braga
+id: bP5QlNfO
+Home: Benfica |0 : 3| Sporting
+id: EyK4gotg
+Home: Arouca |1 : 1| Tondela
+id: 6BGde7Bt
+Home: Moreirense |0 : 2| Vitória Setúbal
+id: 8zDDiPA5
+Home: Vitória Guimarães |1 : 1| Academica
+id: 2cCHjqQB
+Home: Estoril |2 : 2| Rio Ave
+id: d099h5ea
+Home: Maritimo |0 : 2| Paços Ferreira
+id: xG4UmsAU
+Home: Nacional |0 : 0| Boavista
+id: tlBLk3uI
+Round: Ronda 7
+Home: Sporting |5 : 1| Vitória Guimarães
+id: 2cjny4QO
+Home: FC Porto |4 : 0| Belenenses
+id: lKHwunRa
+Home: Braga |0 : 0| Arouca
+id: ATIZuSBg
+Home: Rio Ave |1 : 0| Boavista
+id: fXnvwQeC
+Home: Academica |1 : 0| Maritimo
+id: 23FRslss
+Home: Paços Ferreira |3 : 1| Nacional
+id: G6JVt8dm
+Home: Tondela |1 : 1| Moreirense
+id: 42UUam3P
+Home: Vitória Setúbal |1 : 0| Estoril
+id: lfnrxpBI
+Round: Ronda 6
+Home: Rio Ave |1 : 0| Academica
+id: rF2g0dc8
+Home: Vitória Guimarães |0 : 1| Braga
+id: M51caGCE
+Home: Arouca |2 : 2| Belenenses
+id: 82yOpHcL
+Home: Estoril |2 : 1| U. Madeira
+id: M9HbvFzk
+Home: Maritimo |1 : 0| Tondela
+id: YqL2wZke
+Home: Nacional |1 : 1| Vitória Setúbal
+id: fa9ByDK7
+Home: Boavista |0 : 0| Sporting
+id: SnIfueLr
+Home: Benfica |3 : 0| Paços Ferreira
+id: QwWSqyDR
+Home: Moreirense |2 : 2| FC Porto
+id: G8A7xg51
+Round: Ronda 5
+Home: Sporting |1 : 0| Nacional
+id: UBxKocrF
+Home: Braga |5 : 1| Maritimo
+id: fZcHRyiq
+Home: Belenenses |2 : 0| Moreirense
+id: lhLlWHrS
+Home: FC Porto |1 : 0| Benfica
+id: KteTOZz2
+Home: Academica |0 : 2| Boavista
+id: zkHpXcTL
+Home: U. Madeira |0 : 0| Arouca
+id: tjdPPFLe
+Home: Paços Ferreira |0 : 3| Rio Ave
+id: YPdLQe6k
+Home: Tondela |0 : 1| Estoril
+id: MoZBmJD2
+Home: Vitória Setúbal |2 : 2| Vitória Guimarães
+id: zkwGnwT8
+Round: Ronda 4
+Home: Boavista |0 : 1| Paços Ferreira
+id: AmsCIbES
+Home: Rio Ave |1 : 2| Sporting
+id: 69PTztUd
+Home: Vitória Guimarães |1 : 0| Tondela
+id: CdTwEIMq
+Home: Maritimo |5 : 2| Vitória Setúbal
+id: fLIrDxxj
+Home: Moreirense |0 : 0| U. Madeira
+id: h6ynCdid
+Home: Nacional |2 : 0| Academica
+id: p0OXZaq3
+Home: Arouca |1 : 3| FC Porto
+id: tEx8JvaM
+Home: Estoril |1 : 0| Braga
+id: tSHtYwEF
+Home: Benfica |6 : 0| Belenenses
+id: 2yJxZJb9
+Round: Ronda 3
+Home: U. Madeira |0 : 0| Vitória Guimarães
+id: 6epeMtF3
+Home: Belenenses |1 : 1| Maritimo
+id: xKft5upT
+Home: Academica |1 : 3| Sporting
+id: OGjx6LUM
+Home: Braga |4 : 0| Boavista
+id: YsnmO2pi
+Home: Paços Ferreira |1 : 1| Arouca
+id: YktCaJ7j
+Home: Tondela |1 : 0| Nacional
+id: KblaL0U9
+Home: Benfica |3 : 2| Moreirense
+id: fas80ahp
+Home: FC Porto |2 : 0| Estoril
+id: CYpiNMac
+Home: Vitória Setúbal |2 : 2| Rio Ave
+id: 2Nw4KKqG
+Round: Ronda 2
+Home: Academica |0 : 4| Vitória Setúbal
+id: hYad5lvC
+Home: Arouca |1 : 0| Benfica
+id: A9f148gI
+Home: Boavista |1 : 0| Tondela
+id: nZHUntOp
+Home: Estoril |2 : 0| Moreirense
+id: 0x6CBP0o
+Home: Nacional |1 : 0| U. Madeira
+id: fyaL93Vc
+Home: Vitória Guimarães |1 : 1| Belenenses
+id: YRcP8Np4
+Home: Maritimo |1 : 1| FC Porto
+id: CC9GAqGi
+Home: Sporting |1 : 1| Paços Ferreira
+id: th1X61FG
+Home: Rio Ave |1 : 0| Braga
+id: 212T7s0A
+Round: Ronda 1
+Home: Paços Ferreira |1 : 0| Academica
+id: S87AEhHP
+Home: Benfica |4 : 0| Estoril
+id: pprQ6tbJ
+Home: Braga |2 : 1| Nacional
+id: lI86FY1J
+Home: Moreirense |0 : 2| Arouca
+id: p29yACPt
+Home: U. Madeira |2 : 1| Maritimo
+id: KK1l7A9a
+Home: Vitória Setúbal |2 : 2| Boavista
+id: Oh8u9Wvm
+Home: FC Porto |3 : 0| Vitória Guimarães
+id: 6Hcp8jfg
+Home: Belenenses |3 : 3| Rio Ave
+id: WtvM7MrD
+Home: Tondela |1 : 2| Sporting
+id: Es1h6UO5
