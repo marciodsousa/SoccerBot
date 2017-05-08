@@ -1,0 +1,28 @@
+
+version: '2'
+services:
+    client:
+        build:
+            context: ./
+            dockerfile: client.docker
+        volumes:
+            - ./client:/var/www:rw
+        ports:
+            - "80:80"
+        links:
+            - server
+    server:
+        build:
+            context: ./
+            dockerfile: server.docker
+        volumes:
+            - ./server:/var/www
+        ports:
+            - "8080:8080"
+    db:
+        image: postgres:9.6.2-alpine
+        environment:
+            POSTGRES_PASSWORD: docker
+            POSTGRES_USER: docker
+        ports:
+            - "5432:5432"

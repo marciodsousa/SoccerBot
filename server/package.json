@@ -1,17 +1,21 @@
 {
-  "name": "simple-webcrawler-javascript",
+  "name": "soccerbot-server",
   "version": "0.0.0",
   "description": "A simple webcrawler written in JavaScript",
-  "main": "crawler.js",
+  "main": "server.js",
   "author": "JM",
   "license": "ISC",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "cheerio": "^0.19.0",
+    "express": "^4.15.2",
     "phantom": "^4.0.1",
     "request": "^2.65.0",
     "sync-request": "^4.0.1",
     "url-parse": "^1.0.5",
-    "vue": "^2.2.4",
-    "webpack": "^2.2.1"
+    "mongoose": "~3.6.13",
+    "body-parser": "~1.0.1"
   }
 }
