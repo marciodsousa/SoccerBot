@@ -14,6 +14,8 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
 var port = process.env.PORT || 8080;        // set our port
+const pg = require('pg');
+const connectionString = process.env.DATABASE_URL || 'postgres://docker:docker@db:5432/docker';
 
 // ROUTES FOR OUR API
 // =============================================================================
@@ -25,6 +27,18 @@ router.get('/', function(req, res) {
 });
 router.get('/bears', function(req, res) {
     res.json({ message: 'TO GET SOME BEARS' });   
+});
+
+router.get('/database', function(req, res) {
+
+    // res.json({ message: 'TO GET SOME BEARsssssS' });   
+    const client = new pg.Client(connectionString);
+    client.connect();
+    const query = client.query(
+    'CREATE TABLE items(id SERIAL PRIMARY KEY, text VARCHAR(40) not null, complete BOOLEAN)');
+    query.on('end', () => { client.end(); });
+
+
 });
 
 
