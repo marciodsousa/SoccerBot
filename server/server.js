@@ -87,6 +87,7 @@ if (process.env.NODE_ENV === 'development') {
 }
 
 app.use(require('./app/anonymous-routes'));
+app.use(require('./app/json-routes'));
 app.use(require('./app/protected-routes'));
 app.use(require('./app/user-routes'));
 
